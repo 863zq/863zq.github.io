@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [My ORCID](https://orcid.org/0000-0002-8594-6940).
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -12,7 +13,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Self introduction
 
 Hello, I am Frank from HK PolyU BME.
-My research include wavefront shaping & aritificial intelligence.
+
+My researchs include wavefront shaping & aritificial intelligence.
+
+## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
+
+> Qi Zhao,Huanhao Li,Zhipeng Yu,Chi Man Woo,Tianting Zhong,Shengfu Cheng,Yuanjin Zheng,Honglin Liu,Jie Tian,Puxiang Lai
+> Jie Tian (School of Medical Science and Engineering, Beihang University)* tian@ieee.org
+> Puxiang Lai (Department of Biomedical Engineering, Hong Kong Polytechnic University)* puxiang.lai@polyu.edu.hk
 
 ## Header 2
 
