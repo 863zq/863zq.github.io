@@ -4,6 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[My ORCID](./https://orcid.org/0000-0002-8594-6940).
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
