@@ -14,13 +14,14 @@ My researchs include wavefront shaping & aritificial intelligence.
 
 ## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 
-> Qi Zhao,Huanhao Li,Zhipeng Yu,Chi Man Woo,Tianting Zhong,Shengfu Cheng,Yuanjin Zheng,Honglin Liu,Jie Tian,Puxiang Lai
+> Qi Zhao, Huanhao Li, Zhipeng Yu, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
+> Jie Tian, Puxiang Lai
 > 
-> Jie Tian (School of Medical Science and Engineering, Beihang University)* tian@ieee.org
+> Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
 > 
-> Puxiang Lai (Department of Biomedical Engineering, Hong Kong Polytechnic University)* puxiang.lai@polyu.edu.hk
+> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
-> [Paper Link](https://doi.org/10.1002/advs.202202407)
+> [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
 > 
 > _Face recognition has become ubiquitous for authentication or security purposes. 
 > Meanwhile, there are increasing concerns about the privacy of face images, which are 
@@ -39,6 +40,43 @@ My researchs include wavefront shaping & aritificial intelligence.
 > speckle-based optical cryptosystem is suitable for practical applications and can inspire 
 > other high-security cryptosystems._
 
+
+## Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
+
+> Zhipeng Yu, Huanhao Li, Tianting Zhong, Jung-Hoon Park, Shengfu Cheng, Chi Man Woo, Qi Zhao, Jing Yao, 
+> Yingying Zhou, Xiazi Huang, Weiran Pang, Hansol Yoon, Yuecheng Shen, Honglin Liu, Yuanjin Zheng, Yong Keun Park, 
+> Lihong V. Wang, Puxiang Lai
+> 
+> Lihong V. Wang* (Department of Medical Engineering, California Institute of Technology) lihong@caltech.edu
+> 
+> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
+> 
+> [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
+> 
+> _Optical techniques offer a wide variety of applications as light-matter interactions 
+> provide extremely sensitive mechanisms to probe or treat target media. Most of these 
+> implementations rely on the usage of ballistic or quasi-ballistic photons to achieve 
+> high spatial resolution. However, the inherent scattering nature of light in biological 
+> tissues or tissue-like scattering media constitutes a critical obstacle that has restricted 
+> the penetration depth of non-scattered photons and hence limited the implementation of most 
+> optical techniques for wider applications. In addition, the components of an optical system 
+> are usually designed and manufactured for a fixed function or performance. Recent advances 
+> in wavefront shaping have demonstrated that scattering- or component-induced phase distortions 
+> can be compensated by optimizing the wavefront of the input light pattern through iteration or 
+> by conjugating the transmission matrix of the scattering medium. This offers unprecedented 
+> opportunities in many applications to achieve controllable optical delivery or detection at 
+> depths or dynamically configurable functionalities by using scattering media to substitute 
+> conventional optical components. In this article, the recent progress of wavefront shaping 
+> in multidisciplinary fields is reviewed, from optical focusing and imaging with scattering 
+> media, functionalized devices, modulation of mode coupling, and nonlinearity in multimode 
+> fiber to multimode fiber-based applications. Apart from insights into the underlying 
+> principles and recent advances in wavefront shaping implementations, practical limitations 
+> and roadmap for future development are discussed in depth. Looking back and looking forward, 
+> it is believed that wavefront shaping holds a bright future that will open new avenues for 
+> noninvasive or minimally invasive optical interactions and arbitrary control inside deep 
+> tissues. The high degree of freedom with multiple scattering will also provide unprecedented 
+> opportunities to develop novel optical devices based on a single scattering medium (generic 
+> or customized) that can outperform traditional optical components._
 
 
 
