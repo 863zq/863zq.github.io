@@ -37,7 +37,7 @@ My researchs include wavefront shaping & aritificial intelligence.
 > be realized with up to 98% accuracy. Furthermore, attack analyses are carried out to show 
 > the cryptosystem's security. Due to its high security, fast speed, and low cost, the 
 > speckle-based optical cryptosystem is suitable for practical applications and can inspire 
-> other high-security cryptosystems.
+> other high-security cryptosystems._
 
 
 
