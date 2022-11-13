@@ -6,7 +6,7 @@ layout: default
 
 # Self introduction
 
-Hello, I am Zhao Qi from HK PolyU BME.
+Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
 
 My researchs include wavefront shaping & aritificial intelligence.
 
