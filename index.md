@@ -4,11 +4,9 @@ layout: default
 
 [My ORCID](https://orcid.org/0000-0002-8594-6940)
 
-[Link to another page](./another-page.html)
-
 # Self introduction
 
-Hello, I am Frank from HK PolyU BME.
+Hello, I am Zhao Qi from HK PolyU BME.
 
 My researchs include wavefront shaping & aritificial intelligence.
 
@@ -79,6 +77,7 @@ My researchs include wavefront shaping & aritificial intelligence.
 > or customized) that can outperform traditional optical components._
 
 
+[Link to another page](./another-page.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
