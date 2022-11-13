@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[My ORCID](https://orcid.org/0000-0002-8594-6940).
+[My ORCID](https://orcid.org/0000-0002-8594-6940)
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.html)
 
 # Self introduction
 
@@ -20,7 +20,7 @@ My researchs include wavefront shaping & aritificial intelligence.
 > 
 > Puxiang Lai (Department of Biomedical Engineering, Hong Kong Polytechnic University)* puxiang.lai@polyu.edu.hk
 > 
-> [Link](https://doi.org/10.1002/advs.202202407).
+> [Paper Link](https://doi.org/10.1002/advs.202202407)
 > 
 > _Face recognition has become ubiquitous for authentication or security purposes. 
 > Meanwhile, there are increasing concerns about the privacy of face images, which are 
