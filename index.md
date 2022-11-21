@@ -10,6 +10,14 @@ Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytec
 
 My researchs include wavefront shaping & aritificial intelligence.
 
+## Publications
+### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
+> [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
+### Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
+> [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
+### Parameter-free optimization algorithm for iterative wavefront shaping
+> [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
+
 ## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 
 > Qi Zhao, Huanhao Li, Zhipeng Yu, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
