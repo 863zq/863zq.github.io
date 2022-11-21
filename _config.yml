@@ -1,12 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+- jekyll-remote-theme
 
 title: Zhao Qi from HK PolyU
 
-# description: |
-#   Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
-#   My research interests include wavefront shaping & artificial intelligence.
-
-description: "Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.\n\
+description: "Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.     \n\
   My research interests include wavefront shaping & artificial intelligence."
 
 logo: 
