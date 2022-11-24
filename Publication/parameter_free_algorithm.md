@@ -20,4 +20,5 @@
 > parameter tuning process._
 
 ![Algorithm](/Publication/parameter_free_algorithm.jpg)
-_Flow charts of different optimization algorithms used in Wavefront Shaping: (a) Bat algorithm, (b) Genetic algorithm, and (c) Parameter-free algorithm._
+_Flow charts of different optimization algorithms used in Wavefront Shaping: (a) Bat algorithm, 
+(b) Genetic algorithm, and (c) Parameter-free algorithm._
