@@ -19,4 +19,4 @@
 > Using this method in iterative WFS, one can achieve robust and optimum performance without a 
 > parameter tuning process._
 
-![Algorithm](https://github.com/863zq/863zq.github.io/blob/main/Publication/parameter_free_algorithm.jpg)
+![Algorithm](/Publication/parameter_free_algorithm.jpg)
