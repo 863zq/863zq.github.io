@@ -34,3 +34,6 @@
 > tissues. The high degree of freedom with multiple scattering will also provide unprecedented 
 > opportunities to develop novel optical devices based on a single scattering medium (generic 
 > or customized) that can outperform traditional optical components._
+
+
+![Algorithm](/Publication/wfs_review.jpg)
