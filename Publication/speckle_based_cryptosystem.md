@@ -25,3 +25,6 @@
 > the cryptosystem's security. Due to its high security, fast speed, and low cost, the 
 > speckle-based optical cryptosystem is suitable for practical applications and can inspire 
 > other high-security cryptosystems._
+
+
+![Algorithm](/Publication/speckle_based_cryptosystem.jpg)
