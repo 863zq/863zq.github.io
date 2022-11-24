@@ -13,100 +13,13 @@ My researchs include wavefront shaping & aritificial intelligence.
 ## Publications
 ### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
+[Abstract](https://863zq.github.io/Publication/speckle_based_cryptosystem.html)
 ### Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
 [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
+[Abstract](https://863zq.github.io/Publication/parameter_free_algorithm.html)
 ### Parameter-free optimization algorithm for iterative wavefront shaping
 [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
-
-## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
-
-> Qi Zhao, Huanhao Li, Zhipeng Yu, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
-> Jie Tian, Puxiang Lai
-> 
-> Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
-> 
-> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
-> 
-> [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
-> 
-> _Face recognition has become ubiquitous for authentication or security purposes. 
-> Meanwhile, there are increasing concerns about the privacy of face images, which are 
-> sensitive biometric data and should be protected. Software-based cryptosystems are 
-> widely adopted to encrypt face images, but the security level is limited by insufficient 
-> digital secret key length or computing power. Hardware-based optical cryptosystems can 
-> generate enormously longer secret keys and enable encryption at light speed, but most 
-> reported optical methods, such as double random phase encryption, are less compatible 
-> with other systems due to system complexity. In this study, a plain yet highly efficient 
-> speckle-based optical cryptosystem is proposed and implemented. A scattering ground glass 
-> is exploited to generate physical secret keys of 17.2 gigabit length and encrypt face images 
-> via seemingly random optical speckles at light speed. Face images can then be decrypted from 
-> random speckles by a well-trained decryption neural network, such that face recognition can 
-> be realized with up to 98% accuracy. Furthermore, attack analyses are carried out to show 
-> the cryptosystem's security. Due to its high security, fast speed, and low cost, the 
-> speckle-based optical cryptosystem is suitable for practical applications and can inspire 
-> other high-security cryptosystems._
-
-
-## Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
-
-> Zhipeng Yu, Huanhao Li, Tianting Zhong, Jung-Hoon Park, Shengfu Cheng, Chi Man Woo, Qi Zhao, Jing Yao, 
-> Yingying Zhou, Xiazi Huang, Weiran Pang, Hansol Yoon, Yuecheng Shen, Honglin Liu, Yuanjin Zheng, Yong Keun Park, 
-> Lihong V. Wang, Puxiang Lai
-> 
-> Lihong V. Wang* (Department of Medical Engineering, California Institute of Technology) lihong@caltech.edu
-> 
-> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
-> 
-> [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
-> 
-> _Optical techniques offer a wide variety of applications as light-matter interactions 
-> provide extremely sensitive mechanisms to probe or treat target media. Most of these 
-> implementations rely on the usage of ballistic or quasi-ballistic photons to achieve 
-> high spatial resolution. However, the inherent scattering nature of light in biological 
-> tissues or tissue-like scattering media constitutes a critical obstacle that has restricted 
-> the penetration depth of non-scattered photons and hence limited the implementation of most 
-> optical techniques for wider applications. In addition, the components of an optical system 
-> are usually designed and manufactured for a fixed function or performance. Recent advances 
-> in wavefront shaping have demonstrated that scattering- or component-induced phase distortions 
-> can be compensated by optimizing the wavefront of the input light pattern through iteration or 
-> by conjugating the transmission matrix of the scattering medium. This offers unprecedented 
-> opportunities in many applications to achieve controllable optical delivery or detection at 
-> depths or dynamically configurable functionalities by using scattering media to substitute 
-> conventional optical components. In this article, the recent progress of wavefront shaping 
-> in multidisciplinary fields is reviewed, from optical focusing and imaging with scattering 
-> media, functionalized devices, modulation of mode coupling, and nonlinearity in multimode 
-> fiber to multimode fiber-based applications. Apart from insights into the underlying 
-> principles and recent advances in wavefront shaping implementations, practical limitations 
-> and roadmap for future development are discussed in depth. Looking back and looking forward, 
-> it is believed that wavefront shaping holds a bright future that will open new avenues for 
-> noninvasive or minimally invasive optical interactions and arbitrary control inside deep 
-> tissues. The high degree of freedom with multiple scattering will also provide unprecedented 
-> opportunities to develop novel optical devices based on a single scattering medium (generic 
-> or customized) that can outperform traditional optical components._
-
-
-## Parameter-free optimization algorithm for iterative wavefront shaping
-
-> Qi Zhao, Chi Man Woo, Huanhao Li, Tianting Zhong, Zhipeng Yu, and Puxiang Lai 
-> 
-> Zhipeng Yu* (Department of Biomedical Engineering, Hong Kong Polytechnic University) eric-zhipeng.yu@connect.polyu.hk
-> 
-> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
-> 
-> [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
-> 
-> _Optical focusing through scattering media has a significant impact on optical applications 
-> in biological tissues. Recently, iterative wavefront shaping (WFS) has been successfully used 
-> to focus light through or inside scattering media, and various heuristic algorithms have been 
-> introduced to improve the performance. While these results are encouraging, more efforts are 
-> needed to tune parameters towards robust and optimum optimization. Moreover, optimal parameters 
-> might differ for different scattering samples and experimental conditions. In this Letter, we 
-> propose a “smart” parameter-free algorithm by combining a traditional genetic algorithm with a 
-> bat algorithm, and the mutation rate can be automatically calculated through real-time feedback. 
-> Using this method in iterative WFS, one can achieve robust and optimum performance without a 
-> parameter tuning process._
-
-
+[Abstract](https://863zq.github.io/Publication/wfs_review.html)
 
 
 [Link to another page](./another-page.html)
