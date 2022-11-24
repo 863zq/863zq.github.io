@@ -28,3 +28,20 @@
 
 
 ![Algorithm](/Publication/speckle_based_cryptosystem.jpg)
+
+_The flowchart of the proposed cryptosystem for face recognition. a) Speckle encryption: 
+face images (plaintext) are loaded on a spatial light modulator (SLM) to generate the 
+corresponding speckles (ciphertext) when coherent light reflected by the SLM transmits 
+through a scattering medium, which serves as the unique physical secret key. The ciphertext 
+is safely transferred and stored via the cloud. No face images need to be kept in the database 
+after encryption. b) Learning-based decryption: a neural network is trained in advance to link 
+the plaintext with the ciphertext. After training, new random speckle patterns (ciphertext) 
+are directly fed into the neural network for decryption, and the decrypted face images are 
+then utilized for face recognition. c) Face recognition: the camera-recorded face images are 
+encoded to unique 128-dimensional vectors of each known face image. After decryption, the 
+face encoding distances between the decrypted images and the known face encodings are computed: 
+if the encoding distance is less than a pre-set threshold, the face recognition result is “Match” 
+(the same person), otherwise it is “Mismatch” (different people). Plaintext image: Reproduced 
+under terms of the CC-BY 2.0 license. Copyright 2015, Lawrence Lessig at Second Home London, 
+by Innotech Summit, Flickr (https://www.flickr.com/photos/115363358@N03/18260388752/). The 
+original image is cropped and converted to gray-scale._
