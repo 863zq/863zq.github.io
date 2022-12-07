@@ -21,4 +21,4 @@
 > such as deep-tissue photon therapy and optogenetics, where free-space localized optical delivery
 > encounters challenges._
 
-
+![Algorithm](/Publication/pattern_projection.jpg)
