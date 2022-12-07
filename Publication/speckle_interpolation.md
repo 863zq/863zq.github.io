@@ -10,7 +10,7 @@
 >  
 > Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
-> [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
+> [ArXiv: 2005/2005.00834](https://arxiv.org/ftp/arxiv/papers/2005/2005.00834.pdf)
 > 
 > _Information retrieval from visually random optical speckle patterns is desired in many scenarios yet considered 
 > challenging. It requires accurate understanding or mapping of the multiple scattering process, or reliable capability 
