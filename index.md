@@ -20,10 +20,10 @@ My researchs include wavefront shaping & aritificial intelligence.
 ### Parameter-free optimization algorithm for iterative wavefront shaping ([Abstract](https://863zq.github.io/Publication/parameter_free_algorithm.html))
 [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
 
-### Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles ([Abstract](https://863zq.github.io/Publication/parameter_free_algorithm.html))
+### Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles ([Abstract](https://863zq.github.io/Publication/speckle_interpolation.html))
 [ArXiv: 2005/2005.00834](https://arxiv.org/ftp/arxiv/papers/2005/2005.00834.pdf)
 
-### Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping ([Abstract](https://863zq.github.io/Publication/speckle_interpolation.html))
+### Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping ([Abstract](https://863zq.github.io/Publication/pattern_projection.html))
 [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
 
      
