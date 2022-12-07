@@ -1,4 +1,4 @@
-## Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping
+## Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles
 
 > Huanhao Li, Zhipeng Yu, Qi Zhao, Yunqi Luo, Shengfu Cheng, Tianting Zhong,
 > Chi Man Woo, Honglin Liu, Lihong V. Wang, Yuanjin Zheng, Puxiang Lai
