@@ -26,3 +26,11 @@ My researchs include wavefront shaping & aritificial intelligence.
 ### Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping ([Abstract](https://863zq.github.io/Publication/pattern_projection.html))
 [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
 
+### Accelerating deep learning with high energy efficiency: From microchip to physical systems ([Abstract](https://863zq.github.io/Publication/wfs_commentary.html))
+[DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
+
+### Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping ([Abstract](https://863zq.github.io/Publication/wfs_efficiency.html))
+[DOI: 10.1063/5.0085943](https://doi.org/10.1063/5.0085943)
+
+### Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping ([Abstract](https://863zq.github.io/Publication/dma_pso.html))
+[DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
