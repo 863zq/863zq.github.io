@@ -22,3 +22,5 @@
 > encounters challenges._
 
 ![Algorithm](/Publication/pattern_projection.jpg)
+
+_Framework of separable natural evolution strategy (SNES) in iterative WFS optimization for pattern projection through complex media._
