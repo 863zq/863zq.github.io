@@ -6,7 +6,7 @@
 > 
 > [DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
 > 
-> _various accelerators have been developed to improve DNN computation regarding processing speed as well as 
+> _Various accelerators have been developed to improve DNN computation regarding processing speed as well as 
 > energy efficiency. An overall tendency of the computation platforms has been seen, evolving from conventional 
 > electronics to physical systems, with progressive reductions in energy consumption. While there are limitations 
 > for current realizations of physical systems, vigorous development is strongly looked forward to to continuously 
