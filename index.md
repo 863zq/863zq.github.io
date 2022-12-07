@@ -10,7 +10,7 @@ Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytec
 
 My researchs include wavefront shaping & aritificial intelligence.
 
-## Publications
+# Publications
 ### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning ([Abstract](https://863zq.github.io/Publication/speckle_based_cryptosystem.html))
 [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
 
