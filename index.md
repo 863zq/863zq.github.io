@@ -11,11 +11,18 @@ Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytec
 My researchs include wavefront shaping & aritificial intelligence.
 
 # Biography
-### 09/2020 – 08/2024 Hong Kong Polytechnic University, Department of Biomedical Engineering
 
-### 09/2017 – 08/2020 Tsinghua University, Tsinghua-Berkeley Shenzhen Institute
+Doctor of Philosophy:
 
-### 09/2013 – 06/2017 Northwestern Polytechnical University, Honors College
+09/2020 – Now Hong Kong Polytechnic University, Department of Biomedical Engineering
+
+Master of Science:
+
+09/2017 – 08/2020 Tsinghua University, Tsinghua-Berkeley Shenzhen Institute
+
+Bachelor of Engineering:
+
+09/2013 – 06/2017 Northwestern Polytechnical University, Honors College
 
 # Publications
 ### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning (Advanced Science 2022 [Abstract](https://863zq.github.io/Publication/speckle_based_cryptosystem.html))
