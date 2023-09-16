@@ -2,7 +2,9 @@
 
 ### Zhao Qi @ PolyU BME
 
-Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
+Hello, I am Zhao Qi, a PhD student from Department of 
+
+Biomedical Engineering, Hong Kong Polytechnic University.
 
 My researchs include wavefront shaping & aritificial intelligence.
 
