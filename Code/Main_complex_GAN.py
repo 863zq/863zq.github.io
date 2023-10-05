@@ -388,30 +388,3 @@ with tqdm(range(max_epochs)) as tepoch:
         tqdm.write(f'[Test  epoch {epoch+1:04d} / {max_epochs:04d}] [G loss: {g_loss.mean().item():.4f}] [D loss: {d_loss.mean().item():.6f}] {s}')
         save_image_speckle(epoch=epoch)
         
-    if opt.save_model: torch.save({'generator':generator.state_dict(),'discriminator':discriminator.state_dict()}, f"runs/{tensor_board_path}_GAN.pt")
-    if opt.eval_dataset_sampler >= 10:
-        if opt.eval_dataset_sampler < 100:
-            train_set = int(opt.eval_dataset_sampler-10)
-            if train_set ==  1: interval = [1,5,10,15,20,25,30,35]
-            if train_set ==  5: interval = [1,5,10,15,20,25,30]
-            if train_set == 10: interval = [1,5,10,15,20]
-            if train_set == 15: interval = [1,5,10]
-        if opt.eval_dataset_sampler >= 100 and opt.dataset_path[-7:-3]=='meta': interval = [0,1,2,3] # For meta surface results
-
-        for j in interval:
-            if opt.eval_dataset_sampler < 100: eval_dataset_sampler = list(range(train_set*1000+j*500-opt.eval_dataset_size*opt.batch_size, train_set*1000+j*500))    
-            if opt.eval_dataset_sampler >= 100 and opt.dataset_path[-7:-3] == 'meta': # eval_dataset_size = opt.eval_dataset_size*4 # why need to *4 ???
-                if j == 0: eval_dataset_sampler = list(range(60000, 60000+opt.eval_dataset_size*opt.batch_size))
-                if j in [1,2,3]: eval_dataset_sampler = list(range(60000+j*20000-opt.eval_dataset_size*opt.batch_size, 60000+j*20000))
-            Image_results, Tensor_results, s = [], [], f"Interval = {j:02d} min "
-            with torch.no_grad():
-                for (speckle,image) in (torch.utils.data.DataLoader(DataSet2(dataset_path, eval_dataset_sampler), batch_size=opt.batch_size, num_workers=6, shuffle=False)):
-                    speckle, image = normalization(speckle.to(device)), normalization(image.to(device))
-                    Gen_imgs, g_loss, gen_imgs_mse, gen_imgs_pcc, gen_imgs_ssim, gen_imgs_psnr, gen_imgs_lpips = generator_train(train=False)
-                    d_loss, real_pred, fake_pred = discriminator_train(train=False, iteration=1)                    
-                    Image_results.append([Gen_imgs.cpu(), speckle.cpu(), image.cpu()])
-                    Tensor_results.append([d_loss, g_loss, real_pred, fake_pred, gen_imgs_mse, gen_imgs_pcc, gen_imgs_ssim, gen_imgs_psnr, gen_imgs_lpips])
-                Gen_imgs, speckle, image = torch.cat([i[0] for i in Image_results]), torch.cat([i[1] for i in Image_results]), torch.cat([i[2] for i in Image_results])
-                _, _, _, _, _, gen_imgs_pcc, gen_imgs_ssim, gen_imgs_psnr, gen_imgs_lpips = unpack_tensor_results(Tensor_results, epoch=0, prefix=s, train=False) 
-                save_image_speckle(epoch=0, prefix=s)
-                print(f'{s}[Gen PCC:{gen_imgs_pcc.mean().item():.6f}] [Gen PSNR:{gen_imgs_psnr.mean().item():.6f}] [Gen SSIM:{gen_imgs_ssim.mean().item():.6f}] [Gen LPIPS:{gen_imgs_lpips.mean().item():.6f}]')
