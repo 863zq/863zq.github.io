@@ -41,7 +41,6 @@ parser.add_argument("--output_norm",  type=int,   default=0,     help="Add norma
 parser.add_argument("--speckle_size", type=int,   default=128,   help="Resolution of input speckle 256x256 or 128x128")
 parser.add_argument("--epoch_change_loss", type=int, default=3,  help="Final several epochs will change loss to use LPIPS")
 parser.add_argument("--lpips_net_type", type=str, default='vgg', help="Learned Perceptual Image Patch Similarity net_type:vgg,alex,squeeze")
-parser.add_argument("--update_on_final_epoch", type=int,default=1,help="1:update parameters on final epoch, 0:not")
 
 opt = parser.parse_args() # opt = parser.parse_args(args=["--GAN_type","1"])
 if opt.dataset_path[-15:-3]=="normal_light": opt.offset_x, opt.offset_y = 32,32
