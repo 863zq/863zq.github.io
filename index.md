@@ -47,7 +47,7 @@ Optics Letters 2021 (IF = 3.6) [Abstract](https://863zq.github.io/Publication/pa
 
 Photonics Research 2022 (IF = 7.6) [Abstract](https://863zq.github.io/Publication/speckle_interpolation.html)
 
-[DOI: 10.1364/PRJ.472512](https://https://doi.org/10.1364/PRJ.472512)
+[DOI: 10.1364/PRJ.472512](https://doi.org/10.1364/PRJ.472512)
 
 ### Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping
 
