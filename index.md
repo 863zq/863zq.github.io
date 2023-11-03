@@ -16,29 +16,33 @@ in biological tissues and retrieving images from speckles, under the supervision
 
 ### Doctor of Philosophy
 
-09/2020 – 08/2024   The Hong Kong Polytechnic University
+09/2020 – 08/2024
 
-                    Department of Biomedical Engineering
+The Hong Kong Polytechnic University
 
-                    Major: Biomedical Engineering
-                  
+Department of Biomedical Engineering
 
+Major: Biomedical Engineering
 
 ### Master of Science
 
-09/2017 – 08/2020   Tsinghua University
+09/2017 – 08/2020
 
-                    Tsinghua-Berkeley Shenzhen Institute
+Tsinghua University
 
-                    Major: Data Science and Information Technology
+Tsinghua-Berkeley Shenzhen Institute
+
+Major: Data Science and Information Technology
 
 ### Bachelor of Engineering
 
-09/2013 – 06/2017   Northwestern Polytechnical University
+09/2013 – 06/2017
 
-                    Honors College & School of Electronics and Information
+Northwestern Polytechnical University
 
-                    Major: Electronic Information Engineering
+Honors College & School of Electronics and Information
+
+Major: Electronic Information Engineering
 
 # Publications
 ### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
