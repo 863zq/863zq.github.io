@@ -8,21 +8,37 @@ layout: default
 
 Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
 
-My researchs include computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
+My researchs include computational imaging and deep learning models for overcoming optical speckles 
+in biological tissues and retrieving images from speckles, under the supervision of 
+[Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
 
 # Biography
 
 ### Doctor of Philosophy
 
-09/2020 – Now Hong Kong Polytechnic University, Department of Biomedical Engineering
+09/2020 – 08/2024   The Hong Kong Polytechnic University
+
+                    Department of Biomedical Engineering
+
+                    Major: Biomedical Engineering
+                  
+
 
 ### Master of Science
 
-09/2017 – 08/2020 Tsinghua University, Tsinghua-Berkeley Shenzhen Institute
+09/2017 – 08/2020   Tsinghua University
+
+                    Tsinghua-Berkeley Shenzhen Institute
+
+                    Major: Data Science and Information Technology
 
 ### Bachelor of Engineering
 
-09/2013 – 06/2017 Northwestern Polytechnical University, Honors College
+09/2013 – 06/2017   Northwestern Polytechnical University
+
+                    Honors College & School of Electronics and Information
+
+                    Major: Electronic Information Engineering
 
 # Publications
 ### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
