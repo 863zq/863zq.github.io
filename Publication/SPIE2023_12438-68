@@ -1,0 +1,46 @@
+## Speckle-based Optical Cryptosystem for Face Recognition
+
+> Qi Zhao, Huanhao Li, Zhipeng Yu, Puxiang Lai
+> 
+> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
+> 
+> [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
+> 
+> _Face recognition has been widely implemented in public places for security purposes. 
+> However, face photos are sensitive biometric data, and their privacy is a common concern, 
+> which often needs to be protected via cryptosystems. Popular software-based cryptosystems 
+> have limitations on short secret key lengths, posing a significant threat when facing high 
+> performance quantum computing. Recently, in order to achieve higher level security, 
+> hardware-based optical cryptosystems have been investigated. However, due to the complexity 
+> of optical system designs, it is difficult to integrate the extensively studied optical double 
+> random phase encryption into current face recognition systems. Speckle-based cryptosystems, 
+> on the contrary, affords high-level safety with high adaptivity, high speed, and low cost, 
+> using simpler optical setups. In this study, a speckle-based optical cryptosystem for face 
+> recognition is proposed, and encrypted face recognition is experimentally demonstrated. 
+> During encryption, a scattering ground glass is utilized as the only physical secret key 
+> with 17.2 gigabit length, so as to encrypt face images via random optical speckles at 
+> light speed. During decryption, a specially designed neural network is pre-trained to 
+> reconstruct face images from speckles with high fidelity, allowing for up to 98% accuracy 
+> in the subsequent face recognition process. Apart from face recognition, the proposed 
+> speckle-based optical cryptosystem can also be transferred to other high-security 
+> cryptosystems due to its high security, high adaptivity, fast speed, and low cost._
+
+![Page 1](/Publication/SPIE2023_12438-68/Page_1.jpg)
+![Page 2](/Publication/SPIE2023_12438-68/Page_2.jpg)
+![Page 3](/Publication/SPIE2023_12438-68/Page_3.jpg)
+![Page 4](/Publication/SPIE2023_12438-68/Page_4.jpg)
+![Page 5](/Publication/SPIE2023_12438-68/Page_5.jpg)
+![Page 6](/Publication/SPIE2023_12438-68/Page_6.jpg)
+![Page 7](/Publication/SPIE2023_12438-68/Page_7.jpg)
+![Page 8](/Publication/SPIE2023_12438-68/Page_8.jpg)
+![Page 9](/Publication/SPIE2023_12438-68/Page_9.jpg)
+![Page 10](/Publication/SPIE2023_12438-68/Page_10.jpg)
+![Page 11](/Publication/SPIE2023_12438-68/Page_11.jpg)
+![Page 12](/Publication/SPIE2023_12438-68/Page_12.jpg)
+![Page 13](/Publication/SPIE2023_12438-68/Page_13.jpg)
+![Page 14](/Publication/SPIE2023_12438-68/Page_14.jpg)
+![Page 15](/Publication/SPIE2023_12438-68/Page_15.jpg)
+![Page 16](/Publication/SPIE2023_12438-68/Page_16.jpg)
+![Page 17](/Publication/SPIE2023_12438-68/Page_17.jpg)
+![Page 18](/Publication/SPIE2023_12438-68/Page_18.jpg)
+![Page 19](/Publication/SPIE2023_12438-68/Page_19.jpg)
