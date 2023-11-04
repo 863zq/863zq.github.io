@@ -92,3 +92,11 @@ APL Photonics 2022 (IF = 5.6) [Abstract](https://863zq.github.io/Publication/wfs
 Optics Express 2022 (IF = 3.8) [Abstract](https://863zq.github.io/Publication/dma_pso.html)
 
 [DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
+
+
+# Conferences
+### Speckle-based Optical Cryptosystem for Face Recognition
+
+SPIE Photonics West 2023 (San Francisco, USA) [Abstract](https://863zq.github.io/Publication/SPIE2023_12438-68/SPIE2023_12438-68.html)
+
+[DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
