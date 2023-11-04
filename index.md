@@ -100,3 +100,9 @@ Optics Express 2022 (IF = 3.8) [Abstract](https://863zq.github.io/Publication/dm
 SPIE Photonics West 2023 (San Francisco, USA) [Abstract](https://863zq.github.io/Publication/SPIE2023_12438-68/SPIE2023_12438-68.html)
 
 [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
+
+### Integration of genetic and bat algorithms towards a parameter-free optimization scheme in iterative wavefront shaping
+
+SPIE Photonics Asia 2021 (Online, China) [Abstract](https://863zq.github.io/Publication/SPIE2021/SPIE2021.html)
+
+[DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
