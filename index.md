@@ -6,11 +6,11 @@ layout: default
 
 # Self introduction
 
-Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
+A final-year Ph.D. student in Department of Biomedical Engineering, HK PolyU, expecting to graduate in August 2024.
 
-My PhD research includes computational imaging and deep learning models for overcoming optical speckles 
-in biological tissues and retrieving images from speckles, under the supervision of 
-[Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
+Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012) (Associate Professor).
+
+Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022, IF = 15.1), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021, IF = 3.6), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (In process), and delocalized information in optical speckles via deep learning-based study (In preparation).
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
