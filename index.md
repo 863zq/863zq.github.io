@@ -40,7 +40,7 @@ Advanced Science 2022 (IF = 15.1)
 
 ### [Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
 
-The Innovation 2022 (IF = 23.6)  
+The Innovation 2022 (IF = 23.6) 
 [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
 
 ### [Parameter-free optimization algorithm for iterative wavefront shaping](https://863zq.github.io/Publication/parameter_free_algorithm.html) 
@@ -50,7 +50,7 @@ Optics Letters 2021 (IF = 3.6)
 
 ### [Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles](https://863zq.github.io/Publication/speckle_interpolation.html)
 
-Photonics Research 2022 (IF = 7.3)  
+Photonics Research 2022 (IF = 7.3) 
 [DOI: 10.1364/PRJ.472512](https://doi.org/10.1364/PRJ.472512)
 
 ### [Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping](https://863zq.github.io/Publication/pattern_projection.html) 
@@ -60,7 +60,7 @@ Optics Express 2022 (IF = 3.8)
 
 ### [Accelerating deep learning with high energy efficiency: From microchip to physical systems](https://863zq.github.io/Publication/wfs_commentary.html)
 
-The Innovation 2022 (IF = 23.6)  
+The Innovation 2022 (IF = 23.6) 
 [DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
 
 ### [Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping](https://863zq.github.io/Publication/wfs_efficiency.html)
@@ -77,14 +77,12 @@ Optics Express 2022 (IF = 3.8)
 # Conferences
 ### [Speckle-based Optical Cryptosystem for Face Recognition](https://863zq.github.io/Publication/SPIE2023_12438-68/SPIE2023_12438-68.html)
 
-SPIE Photonics West 2023 (San Francisco, USA)
-
+SPIE Photonics West 2023 (San Francisco, USA) 
 [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
 
 ### [Integration of genetic and bat algorithms towards a parameter-free optimization scheme in iterative wavefront shaping](https://863zq.github.io/Publication/SPIE2021/SPIE2021.html)
 
-SPIE Photonics Asia 2021 (Online, China)
-
+SPIE Photonics Asia 2021 (Online, China) 
 [DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
 
 # Internship
