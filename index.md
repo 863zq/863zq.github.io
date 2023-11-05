@@ -6,7 +6,7 @@ layout: default
 
 # Self introduction
 
-A final-year Ph.D. student in Department of Biomedical Engineering, HK PolyU, expecting to graduate in August 2024.
+A final-year Ph.D. student in Department of Biomedical Engineering, The Hong Kong Polytechnic University, expecting to graduate in August 2024.
 
 Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012) (Associate Professor).
 
@@ -16,19 +16,19 @@ Research papers mainly include the speckle-based cryptosystem for face recogniti
 
 ### PolyU (Doctor of Philosophy) 09/2020 – 08/2024
 
-The Hong Kong Polytechnic University - Department of Biomedical Engineering
+The Hong Kong Polytechnic University —— Department of Biomedical Engineering
 
 Major: Biomedical Engineering
 
 ### THU (Master of Science) 09/2017 – 08/2020
 
-Tsinghua University - Tsinghua-Berkeley Shenzhen Institute
+Tsinghua University —— Tsinghua-Berkeley Shenzhen Institute
 
 Major: Data Science and Information Technology
 
 ### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
-Northwestern Polytechnical University - Honors College & School of Electronics and Information
+Northwestern Polytechnical University —— Honors College & School of Electronics and Information
 
 Major: Electronic Information Engineering
 
