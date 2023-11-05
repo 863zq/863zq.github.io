@@ -14,9 +14,7 @@ in biological tissues and retrieving images from speckles, under the supervision
 
 # Biography
 
-### Doctor of Philosophy
-
-09/2020 – 08/2024
+### PolyU (Doctor of Philosophy) 09/2020 – 08/2024
 
 [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 
@@ -24,9 +22,7 @@ in biological tissues and retrieving images from speckles, under the supervision
 
 Major: Biomedical Engineering
 
-### Master of Science
-
-09/2017 – 08/2020
+### THU (Master of Science) 09/2017 – 08/2020
 
 [Tsinghua University](https://www.tsinghua.edu.cn/)
 
@@ -34,13 +30,10 @@ Major: Biomedical Engineering
 
 Major: Data Science and Information Technology
 
-### Bachelor of Engineering
-
-09/2013 – 06/2017
+### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
 [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
-Honors College & School of Electronics and Information
 [Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)
 
 Major: Electronic Information Engineering
@@ -107,3 +100,7 @@ SPIE Photonics West 2023 (San Francisco, USA) [Abstract](https://863zq.github.io
 SPIE Photonics Asia 2021 (Online, China) [Abstract](https://863zq.github.io/Publication/SPIE2021/SPIE2021.html)
 
 [DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
+
+# Internship
+### OPPO Shenzhen
+
