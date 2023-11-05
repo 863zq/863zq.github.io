@@ -18,9 +18,9 @@ in biological tissues and retrieving images from speckles, under the supervision
 
 09/2020 – 08/2024
 
-The Hong Kong Polytechnic University
+[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 
-Department of Biomedical Engineering
+[Department of Biomedical Engineering](https://www.polyu.edu.hk/bme/)
 
 Major: Biomedical Engineering
 
@@ -28,9 +28,9 @@ Major: Biomedical Engineering
 
 09/2017 – 08/2020
 
-Tsinghua University
+[Tsinghua University](https://www.tsinghua.edu.cn/)
 
-Tsinghua-Berkeley Shenzhen Institute
+[Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/english/)
 
 Major: Data Science and Information Technology
 
@@ -38,9 +38,10 @@ Major: Data Science and Information Technology
 
 09/2013 – 06/2017
 
-Northwestern Polytechnical University
+[Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
 Honors College & School of Electronics and Information
+[Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)
 
 Major: Electronic Information Engineering
 
