@@ -33,44 +33,44 @@ Northwestern Polytechnical University - Honors College & School of Electronics a
 Major: Electronic Information Engineering
 
 # Publications
-### Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
+### [Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning](https://863zq.github.io/Publication/speckle_based_cryptosystem.html) 
 
-Advanced Science 2022 (IF = 15.1) [Abstract](https://863zq.github.io/Publication/speckle_based_cryptosystem.html) 
+Advanced Science 2022 (IF = 15.1) 
 [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
 
-### Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
+### [Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
 
-The Innovation 2022 (IF = 23.6) [Abstract](https://863zq.github.io/Publication/wfs_review.html) 
+The Innovation 2022 (IF = 23.6)  
 [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
 
-### Parameter-free optimization algorithm for iterative wavefront shaping
+### [Parameter-free optimization algorithm for iterative wavefront shaping](https://863zq.github.io/Publication/parameter_free_algorithm.html) 
 
-Optics Letters 2021 (IF = 3.6) [Abstract](https://863zq.github.io/Publication/parameter_free_algorithm.html) 
+Optics Letters 2021 (IF = 3.6) 
 [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
 
-### Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles
+### [Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles](https://863zq.github.io/Publication/speckle_interpolation.html)
 
-Photonics Research 2022 (IF = 7.3) [Abstract](https://863zq.github.io/Publication/speckle_interpolation.html) 
+Photonics Research 2022 (IF = 7.3)  
 [DOI: 10.1364/PRJ.472512](https://doi.org/10.1364/PRJ.472512)
 
-### Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping
+### [Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping](https://863zq.github.io/Publication/pattern_projection.html) 
 
-Optics Express 2022 (IF = 3.8) [Abstract](https://863zq.github.io/Publication/pattern_projection.html) 
+Optics Express 2022 (IF = 3.8) 
 [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
 
-### Accelerating deep learning with high energy efficiency: From microchip to physical systems
+### [Accelerating deep learning with high energy efficiency: From microchip to physical systems](https://863zq.github.io/Publication/wfs_commentary.html)
 
-The Innovation 2022 (IF = 23.6) [Abstract](https://863zq.github.io/Publication/wfs_commentary.html) 
+The Innovation 2022 (IF = 23.6)  
 [DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
 
-### Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping
+### [Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping](https://863zq.github.io/Publication/wfs_efficiency.html)
 
-APL Photonics 2022 (IF = 5.6) [Abstract](https://863zq.github.io/Publication/wfs_efficiency.html) 
+APL Photonics 2022 (IF = 5.6) 
 [DOI: 10.1063/5.0085943](https://doi.org/10.1063/5.0085943)
 
-### Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping
+### [Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping](https://863zq.github.io/Publication/dma_pso.html) 
 
-Optics Express 2022 (IF = 3.8) [Abstract](https://863zq.github.io/Publication/dma_pso.html) 
+Optics Express 2022 (IF = 3.8) 
 [DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
 
 
