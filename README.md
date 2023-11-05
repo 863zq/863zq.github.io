@@ -1,12 +1,10 @@
 ## Welcome to Frank's Pages
 
-### Zhao Qi @ PolyU BME
+### [Zhao Qi @ PolyU BME](https://863zq.github.io)
 
-Hello, I am Zhao Qi, a PhD student from Department of 
 
-Biomedical Engineering, Hong Kong Polytechnic University.
+Hello, I am Zhao Qi from Department of Biomedical Engineering, Hong Kong Polytechnic University.
 
-My researchs include wavefront shaping & aritificial intelligence.
-
-This is my GitHub Pages (https://863zq.github.io/).
-
+My PhD research includes computational imaging and deep learning models for overcoming optical speckles 
+in biological tissues and retrieving images from speckles, under the supervision of 
+[Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
