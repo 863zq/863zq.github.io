@@ -12,7 +12,7 @@ My PhD research includes computational imaging and deep learning models for over
 in biological tissues and retrieving images from speckles, under the supervision of 
 [Dr. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
 
-# Biography
+# [Biography](https://863zq.github.io/Publication/biography.html)
 
 ### PolyU (Doctor of Philosophy) 09/2020 – 08/2024
 
