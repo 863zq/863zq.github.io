@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Zhao Qi's ORCID](https://orcid.org/0000-0002-8594-6940)
-
 # Self introduction
 
 A final-year Ph.D. student in Department of Biomedical Engineering, The Hong Kong Polytechnic University, expecting to graduate in August 2024.
