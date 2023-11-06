@@ -6,7 +6,7 @@
 
 [Department of Biomedical Engineering](https://www.polyu.edu.hk/bme/)
 
-Major: Biomedical Engineering (3.71/4.00)
+Major: Biomedical Engineering ([GPA: 3.49/4.30](https://863zq.github.io/Publication/PhD_Transcript.jpg))
 
 ### THU (Master of Science) 09/2017 – 08/2020
 
