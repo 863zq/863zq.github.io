@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Zhao Qi (PolyU BME). Research wavefront shaping & speckle imaging & deep learning
+Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, and deep learning
 
 [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
