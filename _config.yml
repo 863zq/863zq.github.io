@@ -3,9 +3,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Zhao Qi from HK PolyU
+title: Zhao Qi - HK PolyU
 
-description: "Zhao Qi (PolyU BME). Research WFS & DL"
+description: "Zhao Qi (PolyU BME). Research wavefront shaping & speckle imaging & deep learning"
 
 logo: 
 
