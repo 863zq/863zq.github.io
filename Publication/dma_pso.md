@@ -18,4 +18,4 @@
 
 ![Algorithm](/Publication/dma_pso.jpg)
 
-_(a) Flow chart of the PSO algorithm with dynamic mutation. (b) Concepts of different mutation schemes._
+_Fig.(a) Flow chart of the PSO algorithm with dynamic mutation. (b) Concepts of different mutation schemes._
