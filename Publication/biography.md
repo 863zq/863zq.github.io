@@ -22,6 +22,6 @@ Major: Data Science and Information Technology ([GPA: 3.71/4.00](https://863zq.g
 
 [Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)
 
-Awards: Outstanding Undergraduate at NWPU (06/2017)
+Awards: Outstanding Undergraduate at NWPU (06/2017) ([GPA: 3.67/4.00](https://863zq.github.io/Publication/Bachelor_Transcript.jpg))
 
 
