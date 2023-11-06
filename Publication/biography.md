@@ -14,7 +14,7 @@ Major: Biomedical Engineering (3.71/4.00)
 
 [Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/english/)
 
-Major: Data Science and Information Technology [(GPA: 3.71/4.00)](https://863zq.github.io/Publication/Master_Transcript.jpg)
+Major: Data Science and Information Technology ([GPA: 3.71/4.00](https://863zq.github.io/Publication/Master_Transcript.jpg))
 
 ### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
