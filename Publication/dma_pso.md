@@ -17,4 +17,5 @@
 > than PSO without mutation or with a constant mutation, especially under a noisy environment._
 
 ![Algorithm](/Publication/dma_pso.jpg)
+
 _(a) Flow chart of the PSO algorithm with dynamic mutation. (b) Concepts of different mutation schemes._
