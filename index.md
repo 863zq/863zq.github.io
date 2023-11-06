@@ -88,7 +88,7 @@ SPIE Photonics Asia 2021 (Online, China)
 ### [Flexible humidity sensor based on electrochemically polymerized polypyrrole](https://863zq.github.io/Publication/IEEE2019/IEEE2019.html)
 
 IEEE Sensors 2019 (Montreal, Canada) 
-[10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
+[DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
 
 
 # Internship
