@@ -94,5 +94,10 @@ IEEE Sensors 2019 (Montreal, Canada)
 
 
 # Internship
-### OPPO Shenzhen
+### OPPO Shenzhen (07/2018 - 08/2018, Intern engineer)
+
+OPPO is a renowned Chinese consumer electronics manufacturer based in Guangdong, and has a reputation for producing Android smart phones that appeal to users all over the world.
+
+Literature research on deep learning-based image recognition and segmentation algorithms (including R-CNN, Fast R-CNN, and PoseNet) and proposing innovative implementations for improving photography apps in Color OS for OPPO phones.
+
 
