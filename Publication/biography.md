@@ -16,7 +16,7 @@ Major: Biomedical Engineering
 
 Major: Data Science and Information Technology
 
-Courses: 
+![Master_Transcript](/Publication/Master_Transcript.jpg)
 
 ### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
@@ -26,6 +26,6 @@ Courses:
 
 Awards: Outstanding Undergraduate at NWPU (06/2017)
 
-Courses: 
+![Bachelor_Transcript](/Publication/Bachelor_Transcript.jpg)
 
 
