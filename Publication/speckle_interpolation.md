@@ -1,6 +1,6 @@
 ## Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles
 
-> Huanhao Li, Zhipeng Yu, Qi Zhao, Yunqi Luo, Shengfu Cheng, Tianting Zhong,
+> Huanhao Li†, Zhipeng Yu†, <u>Qi Zhao†</u>, Yunqi Luo, Shengfu Cheng, Tianting Zhong,
 > Chi Man Woo, Honglin Liu, Lihong V. Wang, Yuanjin Zheng, Puxiang Lai
 > 
 > Lihong V. Wang* (Caltech Optical Imaging Laboratory, Andrew and Peggy Cherng Department of Medical Engineering, 
