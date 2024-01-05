@@ -1,6 +1,6 @@
 ## Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping
 
-> Shengfu Cheng, Tianting Zhong, Chi Man Woo, Qi Zhao, Hui Hui, and Puxiang Lai
+> Shengfu Cheng, Tianting Zhong, Chi Man Woo, Qi Zhao, Hui Hui, and Puxiang Lai*
 > 
 > Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
