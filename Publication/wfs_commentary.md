@@ -1,6 +1,6 @@
 ## Accelerating deep learning with high energy efficiency: From microchip to physical systems
 
-> Huanhao Li, Zhipeng Yu, Qi Zhao, Tianting Zhong, Puxiang Lai 
+> Huanhao Li, Zhipeng Yu, <u>Qi Zhao</u>, Tianting Zhong, Puxiang Lai*
 > 
 > Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
