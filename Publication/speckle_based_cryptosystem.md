@@ -1,6 +1,6 @@
 ## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 
-> Qi Zhao, Huanhao Li, Zhipeng Yu, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
+> <u>Qi Zhao†</u>, Huanhao Li†, Zhipeng Yu†, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
 > Jie Tian, Puxiang Lai
 > 
 > Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
