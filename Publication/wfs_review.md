@@ -2,7 +2,7 @@
 
 > Zhipeng Yu†, Huanhao Li†, Tianting Zhong†, Jung-Hoon Park†, Shengfu Cheng, Chi Man Woo, <u>Qi Zhao</u>, Jing Yao, 
 > Yingying Zhou, Xiazi Huang, Weiran Pang, Hansol Yoon, Yuecheng Shen, Honglin Liu, Yuanjin Zheng, Yong Keun Park, 
-> Lihong V. Wang, Puxiang Lai
+> Lihong V. Wang*, Puxiang Lai*
 > 
 > Lihong V. Wang* (Department of Medical Engineering, California Institute of Technology) lihong@caltech.edu
 > 
