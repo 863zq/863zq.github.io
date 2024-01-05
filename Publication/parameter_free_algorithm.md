@@ -1,6 +1,6 @@
 ## Parameter-free optimization algorithm for iterative wavefront shaping
 
-> Qi Zhao, Chi Man Woo, Huanhao Li, Tianting Zhong, Zhipeng Yu, and Puxiang Lai 
+> <u>Qi Zhao†</u>, Chi Man Woo†, Huanhao Li, Tianting Zhong, Zhipeng Yu, and Puxiang Lai 
 > 
 > Zhipeng Yu* (Department of Biomedical Engineering, Hong Kong Polytechnic University) eric-zhipeng.yu@connect.polyu.hk
 > 
