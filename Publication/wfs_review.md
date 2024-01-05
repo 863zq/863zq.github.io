@@ -1,6 +1,6 @@
 ## Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields
 
-> Zhipeng Yu, Huanhao Li, Tianting Zhong, Jung-Hoon Park, Shengfu Cheng, Chi Man Woo, Qi Zhao, Jing Yao, 
+> Zhipeng Yu†, Huanhao Li†, Tianting Zhong†, Jung-Hoon Park†, Shengfu Cheng, Chi Man Woo, <u>Qi Zhao</u>, Jing Yao, 
 > Yingying Zhou, Xiazi Huang, Weiran Pang, Hansol Yoon, Yuecheng Shen, Honglin Liu, Yuanjin Zheng, Yong Keun Park, 
 > Lihong V. Wang, Puxiang Lai
 > 
