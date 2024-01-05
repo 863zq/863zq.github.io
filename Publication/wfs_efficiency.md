@@ -1,6 +1,6 @@
 ## Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping
 
-> Chi Man Woo†,  <u>Qi Zhao†</u>, Tianting Zhong, Huanhao Li, Zhipeng Yu, Puxiang Lai 
+> Chi Man Woo†,  <u>Qi Zhao†</u>, Tianting Zhong, Huanhao Li, Zhipeng Yu*, Puxiang Lai*
 > 
 > Zhipeng Yu* (Department of Biomedical Engineering, Hong Kong Polytechnic University) eric-zhipeng.yu@connect.polyu.hk
 > 
