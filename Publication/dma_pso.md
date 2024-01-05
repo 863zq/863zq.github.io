@@ -1,6 +1,6 @@
 ## Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping
 
-> Chi Man Woo†, Huanhao Li†, <u>Qi Zhao</u>, and Puxiang Lai 
+> Chi Man Woo†, Huanhao Li†, <u>Qi Zhao</u>, and Puxiang Lai* 
 > 
 > Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
