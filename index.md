@@ -142,7 +142,7 @@ The Advanced Photonics Forum 2024, Shenzhen, China (Poster)
 
 Visable Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
 
-### [4. Spatially dispersed information retrieved from optical speckles: a learning-based study] (https://863zq.github.io/)
+### [4. Spatially dispersed information retrieved from optical speckles: a learning-based study](https://863zq.github.io/)
 
 PhotoniX Forum 2023, Hangzhou, China (Poster)
 
