@@ -130,15 +130,15 @@ Optics Express 2022 (IF = 3.8)
 
 # Academic Conferences
 
-### [1. Learning-based study on spatially dispersed information in optical speckles] (https://863zq.github.io/)
+### [1. Learning-based study on spatially dispersed information in optical speckles](https://863zq.github.io/)
 
 The WACBE World Congress on Bioengineering 2024, Hong Kong, China (Poster) 
 
-### [2. Delocalized information in optical speckles and its learning-based demonstration] (https://863zq.github.io/)
+### [2. Delocalized information in optical speckles and its learning-based demonstration](https://863zq.github.io/)
 
 The Advanced Photonics Forum 2024, Shenzhen, China (Poster)
 
-### [3. Learning-based study on spatially dispersed imaging from optical speckles] (https://863zq.github.io/)
+### [3. Learning-based study on spatially dispersed imaging from optical speckles](https://863zq.github.io/)
 
 Visable Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
 
@@ -151,7 +151,7 @@ PhotoniX Forum 2023, Hangzhou, China (Poster)
 SPIE Photonics West 2023, San Francisco, USA (Oral) 
 [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
 
-### [6. Encrypting face recognition using optical speckles] (https://863zq.github.io/)
+### [6. Encrypting face recognition using optical speckles](https://863zq.github.io/)
 
 IEEE TENCON 2022, Hong Kong, China (Oral)
 [DOI: 10.1109/TENCON55691.2022.9977544](https://doi.org/10.1109/TENCON55691.2022.9977544)
@@ -161,7 +161,7 @@ IEEE TENCON 2022, Hong Kong, China (Oral)
 SPIE Photonics Asia 2021, Online, China (Oral)
 [DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
 
-### [8. Innovative heuristic algorithm in wavefront shaping - parameter-free algorithm] (https://863zq.github.io/)
+### [8. Innovative heuristic algorithm in wavefront shaping - parameter-free algorithm](https://863zq.github.io/)
 
 International Conference on Biomedical Health Informatics 2021, Online, Korea (Oral)
 
@@ -204,13 +204,13 @@ Played a crucial role in gathering and analyzing user experience feedback from p
 
 Operated the official WeChat account, published over 100 posts that collectively received more than 50,000 views.
 
-Additionally, served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018). Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
+Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018). Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
 
 ### Student Union of Honors College, Northwestern Polytechnical University (10/2013 - 12/2015)
 
 Operated the official WeChat and Weibo accounts, published over 300 posts that collectively received more than 100,000 views.
 
-Additionally, contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
+Contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
 
 # Miscellaneous Information
 
