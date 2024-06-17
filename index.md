@@ -96,32 +96,32 @@ Chinese Patent 2021
 
 # Non-first authored papers
 
-### [11.	High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
+### [1. High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
 
 Nature Communications 2024 (IF = 14.9)
 [DOI: 10.1038/s41467-024-46946-w](https://doi.org/10.1038/s41467-024-46946-w)
 
-### [12. 2.	Single-shot recognition of orbital angular momentum from speckles with spatially multiplexed point detection](https://863zq.github.io/)
+### [2. Single-shot recognition of orbital angular momentum from speckles with spatially multiplexed point detection](https://863zq.github.io/)
 
 In process 2023
 
-### [13. Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
+### [3. Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
 
 The Innovation 2022 (IF = 23.6) 
 [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
 
-### [14. Accelerating deep learning with high energy efficiency: From microchip to physical systems](https://863zq.github.io/Publication/wfs_commentary.html)
+### [4. Accelerating deep learning with high energy efficiency: From microchip to physical systems](https://863zq.github.io/Publication/wfs_commentary.html)
 
 The Innovation 2022 (IF = 23.6) 
 [DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
 
-### [15. Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping](https://863zq.github.io/Publication/pattern_projection.html) 
+### [5. Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping](https://863zq.github.io/Publication/pattern_projection.html) 
 
 Optics Express 2022 (IF = 3.8) 
 [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
 
 
-### [16. Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping](https://863zq.github.io/Publication/dma_pso.html) 
+### [6. Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping](https://863zq.github.io/Publication/dma_pso.html) 
 
 Optics Express 2022 (IF = 3.8) 
 [DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
