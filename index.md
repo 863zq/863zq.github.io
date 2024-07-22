@@ -10,7 +10,7 @@ Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, an
 
 A final-year Ph.D. student in Department of Biomedical Engineering, The Hong Kong Polytechnic University, expecting to graduate in August 2024.
 
-Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Dr. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) (Associate Professor, [ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
 Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022, IF = 15.1), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021, IF = 3.6), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (In process), and delocalized information in optical speckles via deep learning-based study (In preparation).
 
@@ -24,7 +24,7 @@ Major: Biomedical Engineering (GPA: 3.49/4.30)
 
 Research: Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
-Advisor: [Dr. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
+Advisor: [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
 
 ### THU (Master of Science) 09/2017 – 08/2020
 
