@@ -19,10 +19,10 @@ parser.add_argument("--crop_or_down", type=int,   default=0,     help="For spk_s
 parser.add_argument("--lr",         type=float,   default=1e-4,  help="Adam: learning rate for generator, default 0.0001")
 parser.add_argument("--vit_depth",    type=int,   default=4,     help="Number of Transformer blocks")
 parser.add_argument("--vit_dim",      type=int,   default=1024,  help="Last dimension of output tensor after linear transformation")
-parser.add_argument("--network",      type=int,   default=0,     help="Choose network, 0:Transformer, 1:CNN, 2:FC+Classifier")
+parser.add_argument("--network",      type=int,   default=0,     help="Choose network, 0:Transformer, 2:Complex_FC+Classifier")
 parser.add_argument("--save_model",   type=int,   default=0,     help="Save model, default:0-Disable, 1-Enable")
-parser.add_argument("--dataset_path1",type=str,   default="MNIST_tag.h5", help="Dataset path 1")
-opt = parser.parse_args() # python Classifier.py --lr 0.01 --dataset_size 2000 --testset_size 500
+parser.add_argument("--dataset_path",type=str,   default="MNIST_tag.h5", help="Dataset path")
+opt = parser.parse_args()
 
 def normalization(image): # normalize to [0,1]
     Min = image.min(-2,keepdims=True)[0].min(-1,keepdims=True)[0]
@@ -86,9 +86,9 @@ class DataSet2(torch.utils.data.Dataset): # Load data in memory before training 
 
 class Model(pl.LightningModule):
     def __init__(self):
-        super(Model, self).__init__() # Ref: Better plain ViT baselines for ImageNet-1k
+        super(Model, self).__init__()
         self.lr, self.training_step_outputs, self.validation_step_outputs = opt.lr, [], []
-        if opt.network == 0:
+        if opt.network == 0: # Ref: Better plain ViT baselines for ImageNet-1k
             self.vit = vit_pytorch.ViT(image_size = opt.spk_size, patch_size = opt.spk_size, num_classes = opt.dataset_class,
             dim = opt.vit_dim, depth = opt.vit_depth, heads = 16, mlp_dim = 2048, channels = 1, dropout = 0.1, emb_dropout = 0.1)
             # image_size: Image size. 
@@ -122,7 +122,7 @@ class Model(pl.LightningModule):
         if opt.network == 0:
             loss = torch.nn.functional.binary_cross_entropy_with_logits(model_output, tag)
             predicted_tag = model_output
-        if opt.network == 2: # img_loss = mse - pcc
+        if opt.network == 2:
             pcc  = pearson_corrcoef(model_output.reshape(-1,self.out_dim*self.out_dim).t(), image.reshape(-1,self.out_dim*self.out_dim).t())
             loss = torch.nn.functional.mse_loss(model_output, image).mean() - pcc.mean()
             predicted_tag = self.mnist_net(255*model_output[:,:,2:30,2:30])
@@ -157,8 +157,8 @@ class Model(pl.LightningModule):
         return [optimizer], [scheduler]
 
 if __name__ == "__main__":
-    train_loader = torch.utils.data.DataLoader(DataSet2(opt.dataset_path1, opt.dataset_size, opt.testset_size, train=True ), batch_size=opt.batch_size, num_workers=6, shuffle=False)
-    val_loader   = torch.utils.data.DataLoader(DataSet2(opt.dataset_path1, opt.dataset_size, opt.testset_size, train=False), batch_size=opt.batch_size, num_workers=6, shuffle=False)
+    train_loader = torch.utils.data.DataLoader(DataSet2(opt.dataset_path, opt.dataset_size, opt.testset_size, train=True ), batch_size=opt.batch_size, num_workers=6, shuffle=False)
+    val_loader   = torch.utils.data.DataLoader(DataSet2(opt.dataset_path, opt.dataset_size, opt.testset_size, train=False), batch_size=opt.batch_size, num_workers=6, shuffle=False)
     pl.seed_everything(1, workers=True) # Set random seeds before training
     model = Model()
     tensor_board_path = f"{datetime.datetime.now().strftime('%b%d_%H-%M-%S')}" # path for recording
