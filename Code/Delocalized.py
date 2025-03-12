@@ -29,30 +29,10 @@ class Model(pl.LightningModule):
     def __init__(self, in_dim, out_dim):
         super().__init__()
         self.lr, self.in_dim, self.out_dim, self.val_step_outputs, self.training_step_outputs = opt.lr, in_dim, out_dim, [], []
-        if opt.model_choose == 1: 
-            self.model = torch.nn.Linear(in_dim*in_dim, out_dim*out_dim).to(torch.complex64)
-        if opt.model_choose == 3:
-            # Ref: Better plain ViT baselines for ImageNet-1k, https://github.com/lucidrains/vit-pytorch
-            self.model = vit_pytorch.ViT(image_size = opt.spk_size, patch_size = opt.spk_size, num_classes = opt.img_size ** 2,
-                dim = opt.img_size * 32, depth = 4, heads = 8, mlp_dim = 256, channels = 1, dropout = 0.1, emb_dropout = 0.1)
-            # image_size: Image size. 
-            # patch_size: Number of patches. image_size must be divisible by patch_size.
-            # The number of patches is: n = (image_size // patch_size) ** 2 and n must be greater than 16.
-            # num_classes: Number of classes to classify.
-            # dim: Last dimension of output tensor after linear transformation.
-            # depth: Number of Transformer blocks.
-            # heads: Number of heads in Multi-head Attention layer.
-            # mlp_dim: Dimension of the MLP (FeedForward) layer.
-            # channels: Number of image's channels.
-            # dropout: Dropout rate.
-            # emb_dropout: Embedding dropout rate.
-
+        self.model = torch.nn.Linear(in_dim*in_dim, out_dim*out_dim).to(torch.complex64)
     def forward(self,x):
-        if opt.model_choose == 1:
-            x = x.reshape(-1, self.in_dim*self.in_dim).to(torch.complex64)
-            x = self.model(x).abs().reshape(-1, 1, self.out_dim, self.out_dim)
-        if opt.model_choose == 3:
-            x = self.model(x).reshape(-1, 1, self.out_dim, self.out_dim)
+        x = x.reshape(-1, self.in_dim*self.in_dim).to(torch.complex64)
+        x = self.model(x).abs().reshape(-1, 1, self.out_dim, self.out_dim)
         return x
 
 
