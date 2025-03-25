@@ -16,13 +16,13 @@ Research papers mainly include the speckle-based cryptosystem for face recogniti
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
-### CIMDA-CityU (Postdoctoral Fellow) 11/2025 – Present
+%### CIMDA-CityU (Postdoctoral Fellow) 11/2025 – Present
 
-Centre for Intelligent Multidimensional Data Analysis —— City University of Hong Kong
+%Centre for Intelligent Multidimensional Data Analysis —— City University of Hong Kong
 
-Research: Image processing, Obstacle avoidance, eVTOL
+%Research: Image processing, Obstacle avoidance, eVTOL
 
-Advisor: [Prof. Hong Yan](https://www.ee.cityu.edu.hk/~hpyan/)
+%Advisor: [Prof. Hong Yan](https://www.ee.cityu.edu.hk/~hpyan/)
 
 ### PolyU (Doctor of Philosophy) 09/2020 – 10/2024
 
