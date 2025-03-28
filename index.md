@@ -49,31 +49,33 @@ Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_I
 
 # First or co-first authored papers
 
-### [1. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
+### [1. Extended neural network generalizability for high-fidelity imaging from spatiotemporally decorrelated speckles](https://863zq.github.io/) 
+
+Laser & Photonics Reviews 2025 (IF = 9.8)
+[DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
+
+### [2. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
 
 Chinese Journal of Lasers 2024 (IF = 2.57)
 [DOI: 10.3788/CJL231318](https://doi.org/10.3788/CJL231318)
 
-### [2. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
+### [3. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
 
 In preparation 2024
 
-### [3. Speckle transformer: classification through scattering media with limited information](https://863zq.github.io/) 
+### [4. Speckle transformer: classification through scattering media with limited information](https://863zq.github.io/) 
 
 In preparation 2024
 
-### [4. Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles](https://863zq.github.io/Publication/speckle_interpolation.html)
+### [5. Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles](https://863zq.github.io/Publication/speckle_interpolation.html)
 
 Photonics Research 2023 (IF = 7.3) 
 [DOI: 10.1364/PRJ.472512](https://doi.org/10.1364/PRJ.472512)
 
-### [5. Extended neural network generalizability for high-fidelity imaging from spatiotemporally decorrelated speckles](https://863zq.github.io/) 
+### [6. DeepSLM: Speckle-Licensed Modulation via Deep Adversarial Learning for Authorized Optical Encryption and Decryption](https://863zq.github.io/) 
 
-In process 2023
-
-### [6. DeepSLM: Speckle-licensed modulation via deep adversarial learning for authorized optical encryption](https://863zq.github.io/) 
-
-In process 2023
+Advanced Intelligent Systems 2024 (IF = 6.8)
+[DOI: 10.1002/aisy.202400150](https://doi.org/10.1002/aisy.202400150)
 
 ### [7. Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning](https://863zq.github.io/Publication/speckle_based_cryptosystem.html) 
 
