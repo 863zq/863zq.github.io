@@ -49,7 +49,7 @@ Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_I
 
 # First or co-first authored papers
 
-### [1. Extended neural network generalizability for high-fidelity imaging from spatiotemporally decorrelated speckles](https://863zq.github.io/) 
+### [1. Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/) 
 
 Laser & Photonics Reviews 2025 (IF = 9.8)
 [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
