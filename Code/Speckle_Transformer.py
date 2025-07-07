@@ -12,7 +12,7 @@ parser.add_argument("--testset_size", type=int,   default=500,   help="Testset_s
 parser.add_argument("--dataset_class",type=int,   default=10,    help="Dataset class numbers, 10 for MNIST")
 parser.add_argument("--batch_size",   type=int,   default=256,   help="Batch_size in torch.utils.data.DataLoader")
 parser.add_argument("--num_workers",  type=int,   default=6,     help="Number of cpu threads in torch.utils.data.DataLoader")
-parser.add_argument("--epochs",       type=int,   default=10,    help="Epochs during training")
+parser.add_argument("--epochs",       type=int,   default=30,    help="Epochs during training")
 parser.add_argument("--img_size",     type=int,   default=32,    help="Image_size")
 parser.add_argument("--spk_size",     type=int,   default=256,   help="Speckle_size")
 parser.add_argument("--crop_or_down", type=int,   default=0,     help="For spk_size != 256, crop_ROI_block_choose(>=0) or downsample(-1)")
