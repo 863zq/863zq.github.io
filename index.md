@@ -174,6 +174,26 @@ IEEE Sensors 2019 (Montreal, Canada)
 [DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
 
 
+# Academic Posts
+
+### Guest Editor - MDPI Electronics 
+
+Special Issues - [Advances in Cryptography and Image Encryption](https://www.mdpi.com/journal/electronics/special_issues/HZSO896250)
+
+### Reviewer - Optics and Laser Technology
+
+### Reviewer - MDPI Electronics
+
+### Reviewer - Computer Science & Engineering
+
+### Reviewer - Medicine in novel technology and devices
+
+### Reviewer - Journal of imaging
+
+### Reviewer - Fractal and fractional
+
+### Reviewer - Applied sciences
+
 # Internship
 
 ### Student Ambassador - PolyU BME (06/2023 – 06/2023)
