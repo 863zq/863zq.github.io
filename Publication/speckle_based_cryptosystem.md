@@ -53,12 +53,12 @@ original image is cropped and converted to gray-scale._
 
 ### A cryptosystem for face recognition based on optical interference and phase truncation theory
 
-07/2025 Scientific Reports: [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
+07/2025 Scientific Reports [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
 
 ### High-security optical encryption based on single-pixel imaging and structured light multiplexing holography
 
-03/2025 Optics Letters: [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
+03/2025 Optics Letters [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
 
 ### Large-scale scattering-augmented optical encryption
 
-11/2024 Nature Communications: [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
+11/2024 Nature Communications [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
