@@ -61,3 +61,7 @@ original image is cropped and converted to gray-scale._
 ### Large-scale scattering-augmented optical encryption
 
 11/2024 Nature Communications [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
+
+### Speckle visual cryptography for credential authentication
+
+05/2024 Applied Optics [10.1364/AO.522918](https://doi.org/10.1364/AO.522918)
