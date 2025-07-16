@@ -176,23 +176,23 @@ IEEE Sensors 2019 (Montreal, Canada)
 
 # Academic Posts
 
-### Guest Editor - MDPI Electronics 
+### Guest Editor - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
 
 Special Issues - [Advances in Cryptography and Image Encryption](https://www.mdpi.com/journal/electronics/special_issues/HZSO896250)
 
-### Reviewer - Optics and Laser Technology
+### Reviewer - [Optics and Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)
 
-### Reviewer - MDPI Electronics
+### Reviewer - [MDPI Medicine in novel technology and devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
 
-### Reviewer - Computer Science & Engineering
+### Reviewer - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
 
-### Reviewer - Medicine in novel technology and devices
+### Reviewer - [MDPI Computer Science & Engineering](https://www.mdpi.com/journal/electronics/sections/computer_science_engineering)
 
-### Reviewer - Journal of imaging
+### Reviewer - [MDPI Journal of imaging](https://www.mdpi.com/journal/jimaging)
 
-### Reviewer - Fractal and fractional
+### Reviewer - [MDPI Fractal and fractional](https://www.mdpi.com/journal/fractalfract)
 
-### Reviewer - Applied sciences
+### Reviewer - [MDPI Applied sciences](https://www.mdpi.com/journal/applsci)
 
 # Internship
 
