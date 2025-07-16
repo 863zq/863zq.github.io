@@ -47,3 +47,18 @@ if the encoding distance is less than a pre-set threshold, the face recognition 
 under terms of the CC-BY 2.0 license. Copyright 2015, Lawrence Lessig at Second Home London, 
 by Innotech Summit, Flickr (https://www.flickr.com/photos/115363358@N03/18260388752/). The 
 original image is cropped and converted to gray-scale._
+
+
+## Related works:
+
+### A cryptosystem for face recognition based on optical interference and phase truncation theory
+
+07/2025 Scientific Reports 15(1) [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
+
+### High-security optical encryption based on single-pixel imaging and structured light multiplexing holography
+
+03/2025 Optics Letters 50(7):2378-2381 [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
+
+### Large-scale scattering-augmented optical encryption
+
+11/2024 Nature Communications 15(1) [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
