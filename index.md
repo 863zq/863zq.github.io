@@ -176,9 +176,7 @@ IEEE Sensors 2019 (Montreal, Canada)
 
 # Academic Posts
 
-### Guest Editor - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
-
-Special Issues - [Advances in Cryptography and Image Encryption](https://www.mdpi.com/journal/electronics/special_issues/HZSO896250)
+### Guest Editor - [MDPI Electronics - Special Issues - Advances in Cryptography and Image Encryption](https://www.mdpi.com/journal/electronics/special_issues/HZSO896250)
 
 ### Reviewer - [Optics and Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)
 
