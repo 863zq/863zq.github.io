@@ -50,6 +50,10 @@ original image is cropped and converted to gray-scale._
 
 ## Related works:
 
+### Optical encryption via four operations of orbital angular momentum
+
+07/2025 APL Photonics [DOI: 10.1063/5.0250395](https://doi.org/10.1063/5.0250395)
+
 ### A cryptosystem for face recognition based on optical interference and phase truncation theory
 
 07/2025 Scientific Reports [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
