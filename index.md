@@ -8,14 +8,19 @@ Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, an
 
 # Self introduction
 
-A final-year Ph.D. student in Department of Biomedical Engineering, The Hong Kong Polytechnic University, expecting to graduate in August 2024.
+A student graduated with a Ph.D. from the Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024.
 
 Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
-Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022, IF = 15.1), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021, IF = 3.6), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (In process), and delocalized information in optical speckles via deep learning-based study (In preparation).
+Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (Laser & Photonics Reviews 2025), and delocalized information in optical speckles via deep learning-based study (Under revision).
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
+<!-- ### CIMDA (Postdoctoral Fellow) 11/2020 – Present
+
+Centre for Intelligent Multidimensional Data Analysis Limited - City University of Hong Kong
+
+Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/hong-yan(e4dbdba0-cead-46cb-b7e2-ed86fd3cec9b).html) -->
 
 ### PolyU (Doctor of Philosophy) 09/2020 – 10/2024
 
