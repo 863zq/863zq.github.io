@@ -97,10 +97,10 @@ APL Photonics 2022 (IF = 5.6)
 Optics Letters 2021 (IF = 3.6) 
 [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
 
-### [10. Speckle-based optical cryptosystem for encrypted face recognition](https://863zq.github.io/) 
+### [10. Speckle-based optical cryptosystem for encrypted face recognition](https://863zq.github.io/Publication/speckle_based_cryptosystem.html) 
 
 Chinese Patent 2021
-[ZL202111273688.7](https://doi.org/10.1364/OL.427215)
+[ZL202111273688.7](https://research.polyu.edu.hk/en/publications/一种基于光学散斑的加密人脸识别方法和系统)
 
 # Non-first authored papers
 
