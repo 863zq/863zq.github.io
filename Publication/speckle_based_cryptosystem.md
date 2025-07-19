@@ -8,7 +8,10 @@
 > Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 > 
 > [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
+> 
 > [arXiv: 2201.11844](https://arxiv.org/abs/2201.11844)
+>
+> [Patent: ZL202111273688.7](https://research.polyu.edu.hk/en/publications/一种基于光学散斑的加密人脸识别方法和系统)
 
 Face recognition has become ubiquitous for authentication or security purposes. 
 Meanwhile, there are increasing concerns about the privacy of face images, which are 
