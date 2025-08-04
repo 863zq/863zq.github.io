@@ -59,18 +59,18 @@ Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_I
 Laser & Photonics Reviews 2025 (IF = 10.0)
 [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
 
-### [2. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
-
-Chinese Journal of Lasers 2024 (IF = 2.57)
-[DOI: 10.3788/CJL231318](https://doi.org/10.3788/CJL231318)
-
-### [3. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
+### [2. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
 
 Under revision 2025
 
-### [4. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
+### [3. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
 
 Advanced Photonics Nexus 2025 (IF = 6.0) Under Major Revision
+
+### [4. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
+
+Chinese Journal of Lasers 2024 (IF = 2.57)
+[DOI: 10.3788/CJL231318](https://doi.org/10.3788/CJL231318)
 
 ### [5. DeepSLM: Speckle-Licensed Modulation via Deep Adversarial Learning for Authorized Optical Encryption and Decryption](https://863zq.github.io/) 
 
