@@ -65,7 +65,7 @@ Under revision 2025
 
 ### [3. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
 
-Advanced Photonics Nexus 2025 (IF = 6.0) Under Major Revision
+Under submission 2025
 
 ### [4. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
 
