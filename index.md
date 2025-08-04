@@ -56,7 +56,7 @@ Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_I
 
 ### [1. Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/) 
 
-Laser & Photonics Reviews 2025 (IF = 9.8)
+Laser & Photonics Reviews 2025 (IF = 10.0)
 [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
 
 ### [2. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
@@ -68,9 +68,9 @@ Chinese Journal of Lasers 2024 (IF = 2.57)
 
 Under revision 2025
 
-### [4. Speckle transformer: classification through scattering media with limited information](https://863zq.github.io/) 
+### [4. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
 
-In process 2025
+Advanced Photonics Nexus 2025 (IF = 6.0) Under Major Revision
 
 ### [5. DeepSLM: Speckle-Licensed Modulation via Deep Adversarial Learning for Authorized Optical Encryption and Decryption](https://863zq.github.io/) 
 
