@@ -104,14 +104,14 @@ Chinese Patent 2021
 
 # Non-first authored papers
 
-### [1. High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
+### [1. Speckle-Driven Single-Shot Orbital Angular Momentum Recognition with Ultra-Low Sampling Density](https://863zq.github.io/)
+
+In process 2025 [Preprint](https://doi.org/10.21203/rs.3.rs-6363105/v1)
+
+### [2. High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
 
 Nature Communications 2024 (IF = 14.9)
 [DOI: 10.1038/s41467-024-46946-w](https://doi.org/10.1038/s41467-024-46946-w)
-
-### [2. Single-shot recognition of orbital angular momentum from speckles with spatially multiplexed point detection](https://863zq.github.io/)
-
-In process 2023
 
 ### [3. Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
 
