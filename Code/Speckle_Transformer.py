@@ -1,7 +1,7 @@
 # Digit classification through scattering medium, using vision_transformer
 # Compare direct_classification VS reconstruction+classification
 import argparse, os, h5py, datetime, math, random
-import torch, torchvision, pytorch_msssim, vit_pytorch
+import torch, torchvision, pytorch_msssim
 import pytorch_lightning as pl
 from torchvision import transforms
 from torchmetrics.functional import pearson_corrcoef
@@ -12,7 +12,7 @@ parser.add_argument("--testset_size", type=int,   default=500,   help="Testset_s
 parser.add_argument("--dataset_class",type=int,   default=10,    help="Dataset class numbers, 10 for MNIST")
 parser.add_argument("--batch_size",   type=int,   default=256,   help="Batch_size in torch.utils.data.DataLoader")
 parser.add_argument("--num_workers",  type=int,   default=6,     help="Number of cpu threads in torch.utils.data.DataLoader")
-parser.add_argument("--epochs",       type=int,   default=30,    help="Epochs during training")
+parser.add_argument("--epochs",       type=int,   default=10,    help="Epochs during training")
 parser.add_argument("--img_size",     type=int,   default=32,    help="Image_size")
 parser.add_argument("--spk_size",     type=int,   default=256,   help="Speckle_size")
 parser.add_argument("--crop_or_down", type=int,   default=0,     help="For spk_size != 256, crop_ROI_block_choose(>=0) or downsample(-1)")
@@ -84,12 +84,99 @@ class DataSet2(torch.utils.data.Dataset): # Load data in memory before training 
         if opt.img_size == 64: image = torch.nn.AvgPool2d(kernel_size=2)(image.unsqueeze(0)).squeeze()
         return speckle.unsqueeze(0), image.unsqueeze(0), tag
 
+# Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+from torch import nn
+from einops import rearrange, repeat
+from einops.layers.torch import Rearrange
+def pair(t): return t if isinstance(t, tuple) else (t, t) # helpers
+
+class FeedForward(nn.Module): # Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+    def __init__(self, dim, hidden_dim, dropout = 0.):
+        super().__init__()
+        self.net = nn.Sequential(nn.LayerNorm(dim), nn.Linear(dim, hidden_dim), nn.GELU(), 
+            nn.Dropout(dropout), nn.Linear(hidden_dim, dim), nn.Dropout(dropout))
+    def forward(self, x): return self.net(x)
+
+class Attention(nn.Module): # Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+    def __init__(self, dim, heads = 8, dim_head = 64, dropout = 0.):
+        super().__init__()
+        inner_dim = dim_head *  heads
+        project_out = not (heads == 1 and dim_head == dim)
+        self.heads = heads
+        self.scale = dim_head ** -0.5
+        self.norm = nn.LayerNorm(dim)
+        self.attend = nn.Softmax(dim = -1)
+        self.dropout = nn.Dropout(dropout)
+        self.to_qkv = nn.Linear(dim, inner_dim * 3, bias = False)
+        self.to_out = nn.Sequential(
+            nn.Linear(inner_dim, dim), nn.Dropout(dropout)
+        ) if project_out else nn.Identity()
+
+    def forward(self, x): # Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+        x = self.norm(x)
+        qkv = self.to_qkv(x).chunk(3, dim = -1)
+        q, k, v = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h = self.heads), qkv)
+        dots = torch.matmul(q, k.transpose(-1, -2)) * self.scale
+        attn = self.attend(dots)
+        attn = self.dropout(attn)
+        out = torch.matmul(attn, v)
+        out = rearrange(out, 'b h n d -> b n (h d)')
+        return self.to_out(out)
+
+class Transformer(nn.Module): # Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+    def __init__(self, dim, depth, heads, dim_head, mlp_dim, dropout = 0.):
+        super().__init__()
+        self.norm = nn.LayerNorm(dim)
+        self.layers = nn.ModuleList([])
+        for _ in range(depth):
+            self.layers.append(nn.ModuleList([
+                Attention(dim, heads = heads, dim_head = dim_head, dropout = dropout),
+                FeedForward(dim, mlp_dim, dropout = dropout)
+            ]))
+    def forward(self, x):
+        for attn, ff in self.layers:
+            x = attn(x) + x
+            x = ff(x) + x
+        return self.norm(x)
+
+class ViT(nn.Module): # Ref: https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+    def __init__(self, *, image_size, patch_size, num_classes, dim, depth, heads, mlp_dim, pool = 'cls', channels = 3, dim_head = 64, dropout = 0., emb_dropout = 0.):
+        super().__init__()
+        image_height, image_width = pair(image_size)
+        patch_height, patch_width = pair(patch_size)
+        assert image_height % patch_height == 0 and image_width % patch_width == 0, 'Image dimensions must be divisible by the patch size.'
+        num_patches = (image_height // patch_height) * (image_width // patch_width)
+        patch_dim = channels * patch_height * patch_width
+        assert pool in {'cls', 'mean'}, 'pool type must be either cls (cls token) or mean (mean pooling)'
+        self.to_patch_embedding = nn.Sequential(
+            Rearrange('b c (h p1) (w p2) -> b (h w) (p1 p2 c)', p1 = patch_height, p2 = patch_width),
+            nn.LayerNorm(patch_dim), nn.Linear(patch_dim, dim), nn.LayerNorm(dim), )
+        self.pos_embedding = nn.Parameter(torch.randn(1, num_patches + 1, dim))
+        self.cls_token = nn.Parameter(torch.randn(1, 1, dim))
+        self.dropout = nn.Dropout(emb_dropout)
+        self.transformer = Transformer(dim, depth, heads, dim_head, mlp_dim, dropout)
+        self.pool = pool
+        self.to_latent = nn.Identity()
+        self.mlp_head = nn.Linear(dim, num_classes)
+
+    def forward(self, img):
+        x = self.to_patch_embedding(img)
+        b, n, _ = x.shape
+        cls_tokens = repeat(self.cls_token, '1 1 d -> b 1 d', b = b)
+        x = torch.cat((cls_tokens, x), dim=1)
+        x += self.pos_embedding[:, :(n + 1)]
+        x = self.dropout(x)
+        x = self.transformer(x)
+        x = x.mean(dim = 1) if self.pool == 'mean' else x[:, 0]
+        x = self.to_latent(x)
+        return self.mlp_head(x)
+
 class Model(pl.LightningModule):
     def __init__(self):
         super(Model, self).__init__()
         self.lr, self.training_step_outputs, self.validation_step_outputs = opt.lr, [], []
-        if opt.network == 0: # Ref: Better plain ViT baselines for ImageNet-1k
-            self.vit = vit_pytorch.ViT(image_size = opt.spk_size, patch_size = opt.spk_size, num_classes = opt.dataset_class,
+        if opt.network == 0: # Ref: Better plain ViT baselines for ImageNet-1k, https://github.com/lucidrains/vit-pytorch
+            self.vit = ViT(image_size = opt.spk_size, patch_size = opt.spk_size, num_classes = opt.dataset_class,
             dim = opt.vit_dim, depth = opt.vit_depth, heads = 16, mlp_dim = 2048, channels = 1, dropout = 0.1, emb_dropout = 0.1)
             # image_size: Image size. 
             # patch_size: Number of patches. image_size must be divisible by patch_size.
