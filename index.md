@@ -54,6 +54,14 @@ Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_I
 
 # First or co-first authored papers
 
+<!--### [1. A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms](https://863zq.github.io/) 
+
+Under submission 2025
+
+### [2. Urban Air Mobility: A Comprehensive Review of Technologies, Case Studies, and Future Developments](https://863zq.github.io/) 
+
+Under preparation 2025-->
+
 ### [1. Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/) 
 
 Laser & Photonics Reviews 2025 (IF = 10.0)
