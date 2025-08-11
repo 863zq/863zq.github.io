@@ -60,7 +60,11 @@ Under submission 2025
 
 ### [2. Urban Air Mobility: A Comprehensive Review of Technologies, Case Studies, and Future Developments](https://863zq.github.io/) 
 
-Under preparation 2025-->
+Under preparation 2025
+
+### [3. Light Titan Flyer: On-board Memorize at Flight Time for End-to-end Obstacle Avoidance](https://863zq.github.io/) 
+
+Under revision 2025-->
 
 ### [1. Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/) 
 
