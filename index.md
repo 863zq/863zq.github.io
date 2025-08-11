@@ -8,11 +8,13 @@ Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, an
 
 # Self introduction
 
+<p style="text-align: justify;">
 A student graduated with a Ph.D. from the Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024.
 
 Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
 Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (Laser & Photonics Reviews 2025), and delocalized information in optical speckles via deep learning-based study (Under revision).
+</p>
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
