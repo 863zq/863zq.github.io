@@ -53,6 +53,10 @@ original image is cropped and converted to gray-scale._
 
 ## Related works:
 
+### Light in, sound keys out: photoacoustic PUFs from stochastic nanocomposites
+
+08/2025 Nature Communications [DOI: 10.1038/s41467-025-62747-1](https://doi.org/10.1038/s41467-025-62747-1)
+
 ### Optical encryption via four operations of orbital angular momentum
 
 07/2025 APL Photonics [DOI: 10.1063/5.0250395](https://doi.org/10.1063/5.0250395)
