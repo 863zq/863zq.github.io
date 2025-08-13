@@ -2,47 +2,6 @@
 layout: default
 ---
 
-<!-- 1) 打字文本的挂载点 -->
-<span id="typed-tagline"></span>
-
-<!-- 2) 引入 typed.js（CDN） -->
-<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-
-<!-- 3) 初始化 -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    new Typed('#typed-tagline', {
-      strings: [
-        'Zhao Qi. Research:',
-        'Wavefront shaping · Speckle imaging',
-        'Computational imaging · Deep learning',
-        'Imaging through scattering media'
-      ],
-      typeSpeed: 50,
-      backSpeed: 25,
-      backDelay: 1000,
-      startDelay: 300,
-      loop: true,
-      smartBackspace: true,
-      showCursor: true,
-      cursorChar: '|'
-    });
-  });
-</script>
-
-<!-- 可选：样式微调 -->
-<style>
-  #typed-tagline {
-    font-weight: 600;
-    font-size: 1.0rem;
-    letter-spacing: 0.3px;
-  }
-  .typed-cursor {
-    color: #6c63ff; /* 光标颜色 */
-  }
-</style>
-
-
 Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, and deep learning
 
 [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
