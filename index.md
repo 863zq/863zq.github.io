@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, and deep learning
+<!-- Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, and deep learning -->
 
-[ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
+Zhao Qi [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
 # Self introduction
 
-A student graduated with a Ph.D. from the Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024.
+A student graduated with a Ph.D. from the Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024. [Thesis: Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418)
 
 Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
