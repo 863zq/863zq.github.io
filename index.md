@@ -215,14 +215,9 @@ IEEE Sensors 2019 (Montreal, Canada)
 
 Served as a Student Ambassador during Student Ambassador for Research Postgraduate Summer School 2023.
 
-Responsibilities included organizing and guiding the itinerary for visiting the PolyU campus, and introducing the facilities in labs and cutting-edge research conducted by faculty members of BME.
-
 ### Teaching assistant - PolyU BME (02/2022 – 06/2022)
 
-Received the Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”.
-
-Roles encompassed grading examination papers, reviewing assignments, assisting in laboratory experiment instruction, and supporting students throughout the course.
-
+Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”.
 
 ### Intern engineer - OPPO Shenzhen (07/2018 - 08/2018)
 
@@ -235,20 +230,6 @@ Focused on enhancing the photography capabilities through the research of advanc
 Engaged in an intern position at He Ying, a pioneering startup located in Shenzhen, known for its collaboration with JEEP to develop co-branded Android smartwatches.
 
 Played a crucial role in gathering and analyzing user experience feedback from pre-release smartwatch models, providing insightful recommendations to enhance product quality and user satisfaction.
-
-# Extracurricular Activities
-
-### Student Union of Shenzhen International Graduate School, Tsinghua University (09/2017 - 10/2018)
-
-Operated the official WeChat account, published over 100 posts that collectively received more than 50,000 views.
-
-Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018). Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
-
-### Student Union of Honors College, Northwestern Polytechnical University (10/2013 - 12/2015)
-
-Operated the official WeChat and Weibo accounts, published over 300 posts that collectively received more than 100,000 views.
-
-Contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
 
 # Miscellaneous Information
 
