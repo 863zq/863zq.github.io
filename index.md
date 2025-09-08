@@ -171,7 +171,7 @@ PhotoniX Forum 2023, Hangzhou, China (Poster)
 SPIE Photonics West 2023, San Francisco, USA (Oral) 
 [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
 
-### [6. Encrypting face recognition using optical speckles](https://863zq.github.io/)
+### [6. Encrypting face recognition with optical speckles](https://863zq.github.io/)
 
 IEEE TENCON 2022, Hong Kong, China (Oral)
 [DOI: 10.1109/TENCON55691.2022.9977544](https://doi.org/10.1109/TENCON55691.2022.9977544)
