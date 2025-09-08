@@ -8,6 +8,8 @@
 > 
 > [DOI: 10.1063/5.0085943](https://doi.org/10.1063/5.0085943)
 > 
+> [researchsquare: 1198374](https://doi.org/10.21203/rs.3.rs-1198374/v1)
+> 
 > _Iterative wavefront shaping is a powerful tool to overcome optical scattering and enable the focusing of 
 > diffusive light, which has exciting potential in many applications that desire localized light delivery at 
 > depths in tissue-like complex media. Unsatisfactory performance and efficiency, however, have been a 
