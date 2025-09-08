@@ -16,15 +16,15 @@ Research papers mainly include the speckle-based cryptosystem for face recogniti
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
-<!-- ### CIMDA (Postdoctoral Fellow) 11/2020 – Present
+<!-- ### CIMDA (Postdoctoral Fellow) 11/2024 – Present
 
 Centre for Intelligent Multidimensional Data Analysis Limited - City University of Hong Kong
 
-Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/hong-yan(e4dbdba0-cead-46cb-b7e2-ed86fd3cec9b).html) -->
+Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
 ### PolyU (Doctor of Philosophy) 09/2020 – 10/2024
 
-The Hong Kong Polytechnic University —— Department of Biomedical Engineering
+The Hong Kong Polytechnic University — Department of Biomedical Engineering
 
 Major: Biomedical Engineering (GPA: 3.49/4.30)
 
@@ -34,7 +34,7 @@ Advisor: [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic
 
 ### THU (Master of Science) 09/2017 – 08/2020
 
-Tsinghua University —— Tsinghua-Berkeley Shenzhen Institute
+Tsinghua University — Tsinghua-Berkeley Shenzhen Institute
 
 Major: Data Science and Information Technology (GPA: 3.71/4.00)
 
@@ -44,7 +44,7 @@ Advisor: [Assoc. Prof. Xiang Qian](https://www.sigs.tsinghua.edu.cn/qx_en/main.h
 
 ### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
-Northwestern Polytechnical University —— Honors College & School of Electronics and Information
+Northwestern Polytechnical University — Honors College & School of Electronics and Information
 
 Major: Electronic Information Engineering
 
