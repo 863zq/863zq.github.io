@@ -8,11 +8,20 @@ Zhao Qi [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
 # Self introduction
 
-A student graduated with a Ph.D. from the Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024. [Thesis: Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418)
+- **PhD graduate:** Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024.
 
-Scientific research experiences in computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles, under the supervision of [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+- **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418).
 
-Research papers mainly include the speckle-based cryptosystem for face recognition via deep learning (Advanced Science 2022), the parameter-free algorithm for iterative wavefront shaping (Optics Letters 2021), optical imaging through spatiotemporally decorrelated speckles via a generative adversarial network (Laser & Photonics Reviews 2025), and delocalized information in optical speckles via deep learning-based study (Under revision).
+- **Supervisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+
+- **Research fileds:** Computational imaging and deep learning models for overcoming optical speckles in biological tissues and retrieving images from speckles.
+
+- **Selected Publications:**
+  - Optical imaging through spatiotemporally decorrelated speckles via GAN (*Laser & Photonics Reviews*, 2025)  
+  - Direct classification through scattering media with limited information (*Advanced Photonics Nexus*, 2025)
+  - Delocalized information in optical speckles via learning-based study (*Under revision*, 2025)
+  - Speckle-based cryptosystem for face recognition via deep learning (*Advanced Science*, 2022)  
+  - Parameter-free algorithm for iterative wavefront shaping (*Optics Letters*, 2021)  
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
@@ -22,35 +31,35 @@ Centre for Intelligent Multidimensional Data Analysis Limited - City University 
 
 Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
-### PolyU (Doctor of Philosophy) 09/2020 – 10/2024
+## PolyU (Doctor of Philosophy) 09/2020 – 10/2024
 
-The Hong Kong Polytechnic University — Department of Biomedical Engineering
+- **Affiliation:** The Hong Kong Polytechnic University — Department of Biomedical Engineering
 
-Major: Biomedical Engineering (GPA: 3.49/4.30)
+- **Major:** Biomedical Engineering (GPA: 3.49/4.30)
 
-Research: Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
+- **Advisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
 
-Advisor: [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
+- **Research:** Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
-### THU (Master of Science) 09/2017 – 08/2020
+## THU (Master of Science) 09/2017 – 08/2020
 
-Tsinghua University — Tsinghua-Berkeley Shenzhen Institute
+- **Affiliation:** Tsinghua University — Tsinghua-Berkeley Shenzhen Institute
 
-Major: Data Science and Information Technology (GPA: 3.71/4.00)
+- **Major:** Data Science and Information Technology (GPA: 3.71/4.00)
 
-Research: Flexible sensors, Micro-electromechanical Systems
+- **Advisor:** [Assoc. Prof. Xiang Qian](https://www.sigs.tsinghua.edu.cn/qx_en/main.htm), [Prof. Xiaohao Wang](https://www.sigs.tsinghua.edu.cn/wxh_en/main.htm), [Prof. Zheng You](https://www.sigs.tsinghua.edu.cn/yzys_en/main.htm), [Prof. Liwei Lin (UC Berkeley)](https://me.berkeley.edu/people/liwei-lin/)
 
-Advisor: [Assoc. Prof. Xiang Qian](https://www.sigs.tsinghua.edu.cn/qx_en/main.htm), [Prof. Xiaohao Wang](https://www.sigs.tsinghua.edu.cn/wxh_en/main.htm), [Prof. Zheng You](https://www.sigs.tsinghua.edu.cn/yzys_en/main.htm), [Prof. Liwei Lin (UC Berkeley)](https://me.berkeley.edu/people/liwei-lin/)
+- **Research:** Flexible sensors, Micro-electromechanical Systems
 
-### NWPU (Bachelor of Engineering) 09/2013 – 06/2017
+## NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
-Northwestern Polytechnical University — Honors College & School of Electronics and Information
+- **Affiliation:** Northwestern Polytechnical University — Honors College & School of Electronics and Information
 
-Major: Electronic Information Engineering
+- **Major:** Electronic Information Engineering
 
-Research: Image recognition, Deep learning
+- **Advisor:** [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_Information_Engineering.htm)
 
-Advisor: [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_Information_Engineering.htm)
+- **Research:** Image recognition, Deep learning
 
 # First or co-first authored papers
 
@@ -71,13 +80,14 @@ Under revision 2025-->
 Laser & Photonics Reviews 2025 (IF = 10.0)
 [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
 
-### [2. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
+### [2. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
+
+Advanced Photonics Nexus 2025 (IF = 6.0)
+[DOI: /](https://doi.org/)
+
+### [3. Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/) 
 
 Under revision 2025
-
-### [3. Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/) 
-
-Under submission 2025
 
 ### [4. Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html) 
 
