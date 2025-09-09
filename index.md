@@ -224,15 +224,15 @@ Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
 # Miscellaneous Information
 
-- **Languages:" English (fluent); Mandarin (mother language); Cantonese (basic)
+- **Languages:** English (fluent); Mandarin (mother language); Cantonese (basic)
 
-- **Programming:" Python; MATLAB; C language; Shell-Linux
+- **Programming:** Python; MATLAB; C language; Shell-Linux
 
-- **Deep learning frameworks:" [PyTorch](https://pytorch.org/), [PyTorch Lightning](https://lightning.ai/docs/pytorch)
+- **Deep learning frameworks:** [PyTorch](https://pytorch.org/), [PyTorch Lightning](https://lightning.ai/docs/pytorch)
 
-- **LLM frameworks:" [Dify](https://dify.ai/), [LongChain](https://www.langchain.com/)
+- **LLM frameworks:** [Dify](https://dify.ai/), [LongChain](https://www.langchain.com/)
 
-- **Other skills:" MS Office; Video Clipping; Driving
+- **Other skills:** MS Office; Video Clipping; Driving
 
-- **Hobbies:" Hiking, Photography
+- **Hobbies:** Hiking, Photography
 
