@@ -33,9 +33,17 @@
 
 ## Internship
 
-- **Student Ambassador - PolyU BME (06/2023 – 06/2023):** Served as a Student Ambassador during Student Ambassador for Research Postgraduate Summer School 2023. Responsibilities included guiding the participants for visiting the campus, and introducing the facilities in labs and cutting-edge research conducted by faculty members of BME.
+- **Student Ambassador - PolyU BME (06/2023 – 06/2023):**
+  
+  Served as a Student Ambassador during Student Ambassador for Research Postgraduate Summer School 2023.
 
-- **Teaching Assistant - PolyU BME (02/2022 – 06/2022):** Received the Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”. Roles included grading examination papers, reviewing assignments, assisting in laboratory experiment instruction, and supporting students throughout the course.
+  Responsibilities included guiding the participants for visiting the campus, and introducing the facilities in labs and cutting-edge research conducted by faculty members of BME.
+
+- **Teaching Assistant - PolyU BME (02/2022 – 06/2022):** 
+
+  Received the Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”. 
+  
+  Roles included grading examination papers, reviewing assignments, assisting in laboratory experiment instruction, and supporting students throughout the course.
 
 
 # THU (Master of Science) 09/2017 – 08/2020
@@ -55,11 +63,25 @@
 
 ## Internship
 
-- **Intern engineer - OPPO Shenzhen (07/2018 - 08/2018):** Completed an internship at OPPO, a leading Chinese electronics corporation specializing in smartphones, headquartered in Guangdong. Focused on enhancing the photography capabilities through the research of deep learning-based algorithms, contributing to high-quality products to consumers.
+- **Intern engineer - OPPO Shenzhen (07/2018 - 08/2018):**
 
-- **Intern engineer - He Ying Shenzhen (07/2018 - 07/2018):** Engaged in an intern position at He Ying, a pioneering startup located in Shenzhen, known for its collaboration with JEEP to develop co-branded Android smartwatches. Played a crucial role in gathering and analyzing user experience feedback from pre-release smartwatch models, providing insightful recommendations to enhance product quality.
+  Completed an internship at OPPO, a leading Chinese electronics corporation specializing in smartphones, headquartered in Guangdong.
 
-- **Student Union of Shenzhen International Graduate School (09/2017 - 10/2018):** Operated the official WeChat account, published over 100 posts that collectively received more than 50,000 views. Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018). Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
+  Focused on enhancing the photography capabilities through the research of advanced deep learning-based image recognition and segmentation algorithms, contributing to high-quality products to global consumers.
+
+- **Intern engineer - He Ying Shenzhen (07/2018 - 07/2018):**      
+
+  Engaged in an intern position at He Ying, a pioneering startup located in Shenzhen, known for its collaboration with JEEP to develop co-branded Android smartwatches.
+
+  Played a crucial role in gathering and analyzing user experience feedback from pre-release smartwatch models, providing insightful recommendations to enhance product quality and user satisfaction.
+
+- **Student Union of Shenzhen International Graduate School (09/2017 - 10/2018):**
+  
+  Operated the official WeChat account, published over 100 posts that collectively received more than 50,000 views.
+
+  Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018).
+
+  Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
 
 # NWPU (Bachelor of Engineering) 09/2013 – 06/2017
 
@@ -82,4 +104,10 @@
 
 ## Internship
 
-- **Student Union of Honors College (10/2013 - 12/2015):** Operated the official WeChat and Weibo accounts, published over 300 posts that collectively received more than 100,000 views. Contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
+- **Student Union of Honors College (10/2013 - 12/2015):**
+
+  Operated the official WeChat and Weibo accounts, published over 300 posts that collectively received more than 100,000 views.
+  
+  Contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
+
+

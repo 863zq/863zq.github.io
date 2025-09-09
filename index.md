@@ -208,9 +208,13 @@ Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
      Served as a Student Ambassador during Student Ambassador for Research Postgraduate Summer School 2023.
 
+     Responsibilities included guiding the participants for visiting the campus, and introducing the facilities in labs and cutting-edge research conducted by faculty members of BME.
+
   1. **Teaching assistant - PolyU BME (02/2022 – 06/2022)**
 
-     Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”.
+     Received the Best Teaching Assistant Award for exceptional contributions to the course "Biomedical Engineering Research and Design Studies II - Engineer for the Community”. 
+  
+     Roles included grading examination papers, reviewing assignments, assisting in laboratory experiment instruction, and supporting students throughout the course.
 
   1. **Intern engineer - OPPO Shenzhen (07/2018 - 08/2018)**
 
