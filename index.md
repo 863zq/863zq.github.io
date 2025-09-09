@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<!-- Zhao Qi. Research: wavefront shaping, speckle imaging, computational imaging, and deep learning -->
+[ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
-Zhao Qi [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
+[Google Scholar: fwYXanQAAAAJ](https://scholar.google.com/citations?user=fwYXanQAAAAJ)
+
+[Research Gate: Qi-Zhao-111](https://www.researchgate.net/profile/Qi-Zhao-111)
 
 # Self introduction
 
@@ -20,11 +22,11 @@ Zhao Qi [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
   - Retrieving images from optical speckles
 
 - **Selected Publications:**
-  - Optical imaging through spatiotemporally decorrelated speckles via GAN (*Laser & Photonics Reviews*, 2025)  
-  - Direct classification through scattering media with limited information (*Advanced Photonics Nexus*, 2025)
-  - Delocalized information in optical speckles via learning-based study (*Under revision*, 2025)
-  - Speckle-based cryptosystem for face recognition via deep learning (*Advanced Science*, 2022)  
-  - Parameter-free algorithm for iterative wavefront shaping (*Optics Letters*, 2021)  
+  - Optical imaging through spatiotemporally decorrelated speckles via GAN [(*Laser & Photonics Reviews*, 2025)](https://doi.org/10.1002/lpor.202401836)
+  - Direct classification through scattering media with limited information [(*Advanced Photonics Nexus*, 2025)](https://doi.org/XX/XX)
+  - Delocalized information in optical speckles via learning-based study [(*Under revision*, 2025)](https://doi.org/XX/XX)
+  - Speckle-based cryptosystem for face recognition via deep learning [(*Advanced Science*, 2022)](https://doi.org/10.1002/advs.202202407)
+  - Parameter-free algorithm for iterative wavefront shaping [(*Optics Letters*, 2021)](https://doi.org/10.1364/OL.427215)
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
