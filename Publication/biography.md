@@ -1,9 +1,9 @@
-# CIMDA (Postdoctoral Fellow) 11/2024 – Present
+# Postdoctoral Fellow (11/2024 – Present)
 
-[City University of Hong Kong](https://www.cityu.edu.hk/) — 
-[Centre for Intelligent Multidimensional Data Analysis Limited](https://www.innocimda.com/)
+**[City University of Hong Kong](https://www.cityu.edu.hk/) — 
+[Centre for Intelligent Multidimensional Data Analysis Limited](https://www.innocimda.com/)**
 
-## Research
+## Academic
 
 - **Advisor:** [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan)
 
@@ -14,10 +14,10 @@
 - **Literature Review:** Urban Air Mobility: Technological Foundations, Real-World Implementation, and the Future Development (_Under submission 2025_). A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms (_Under submission 2025_).
 
 
-# PolyU (Doctor of Philosophy) 09/2020 – 10/2024
+# Doctor of Philosophy (09/2020 – 10/2024)
 
-[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) — 
-[Department of Biomedical Engineering](https://www.polyu.edu.hk/bme/)
+**[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) — 
+[Department of Biomedical Engineering](https://www.polyu.edu.hk/bme/)**
 
 ## Academic
 
@@ -44,10 +44,10 @@
   Roles included grading examination papers, reviewing assignments, assisting in laboratory experiment instruction, and supporting students throughout the course.
 
 
-# THU (Master of Science) 09/2017 – 08/2020
+# Master of Science (09/2017 – 08/2020)
 
-[Tsinghua University](https://www.tsinghua.edu.cn/) — 
-[Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/english/)
+**[Tsinghua University](https://www.tsinghua.edu.cn/) — 
+[Tsinghua-Berkeley Shenzhen Institute](http://www.tbsi.edu.cn/english/)**
 
 ## Academic
 
@@ -81,10 +81,10 @@
 
   Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
 
-# NWPU (Bachelor of Engineering) 09/2013 – 06/2017
+# Bachelor of Engineering (09/2013 – 06/2017)
 
-[Northwestern Polytechnical University](https://www.nwpu.edu.cn/) — 
-[Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)
+**[Northwestern Polytechnical University](https://www.nwpu.edu.cn/) — 
+[Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)**
 
 ## Academic
 
