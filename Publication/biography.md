@@ -64,7 +64,7 @@
 
 - **Research:** Flexible sensors, Micro-electromechanical Systems
 
-- **Thesis:** [Research on the Flexible HumiditySensors used for Indoor HumidityControl](https://863zq.github.io/Publication/Master_Transcript.jpg)
+- **Thesis:** [Research on the Flexible Humidity Sensors used for Indoor Humidity Control](https://863zq.github.io/Publication/Master_Transcript.jpg)
 
 ## Internship
 
@@ -101,7 +101,7 @@
 
 - **Research:** Image recognition, Deep learning
 
-- **Thesis:** [Handwritten Character Recognition with Deep Neural Networks and GPU Implementation](https://863zq.github.io/Publication/Bachelor_Transcript.jpg)
+- **Thesis:** [Handwritten Character Recognition with Deep Neural Networks and its GPU Implementation](https://863zq.github.io/Publication/Bachelor_Transcript.jpg)
 
 - **Awards:** Outstanding Undergraduate at NWPU (06/2017)
 
