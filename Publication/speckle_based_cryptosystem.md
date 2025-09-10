@@ -1,19 +1,18 @@
 ## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 
-> <u>Qi Zhao†</u>, Huanhao Li†, Zhipeng Yu†, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu,
-> Jie Tian*, Puxiang Lai*
-> 
-> Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
-> 
-> Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
-> 
-> [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
-> 
-> [arXiv: 2201.11844](https://arxiv.org/abs/2201.11844)
->
-> [Patent: ZL202111273688.7](https://research.polyu.edu.hk/en/publications/一种基于光学散斑的加密人脸识别方法和系统)
+**Author:** <u>Qi Zhao†</u>, Huanhao Li†, Zhipeng Yu†, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu, Jie Tian*, Puxiang Lai*
 
-Face recognition has become ubiquitous for authentication or security purposes. 
+**Corresponding author:** Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
+
+**Corresponding author:** Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
+
+**[DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)**
+
+**[arXiv: 2201.11844](https://arxiv.org/abs/2201.11844)**
+
+**[Patent: ZL202111273688.7](https://research.polyu.edu.hk/en/publications/一种基于光学散斑的加密人脸识别方法和系统)**
+
+**Abstract:** Face recognition has become ubiquitous for authentication or security purposes. 
 Meanwhile, there are increasing concerns about the privacy of face images, which are 
 sensitive biometric data and should be protected. Software-based cryptosystems are 
 widely adopted to encrypt face images, but the security level is limited by insufficient 
@@ -51,28 +50,28 @@ by Innotech Summit, Flickr (https://www.flickr.com/photos/115363358@N03/18260388
 original image is cropped and converted to gray-scale._
 
 
-## Related works:
+## Related papers
 
-### Light in, sound keys out: photoacoustic PUFs from stochastic nanocomposites
+**Light in, sound keys out: photoacoustic PUFs from stochastic nanocomposites**
 
-08/2025 Nature Communications [DOI: 10.1038/s41467-025-62747-1](https://doi.org/10.1038/s41467-025-62747-1)
+08/2025 _Nature Communications_ [DOI: 10.1038/s41467-025-62747-1](https://doi.org/10.1038/s41467-025-62747-1)
 
-### Optical encryption via four operations of orbital angular momentum
+**Optical encryption via four operations of orbital angular momentum**
 
-07/2025 APL Photonics [DOI: 10.1063/5.0250395](https://doi.org/10.1063/5.0250395)
+07/2025 _APL Photonics_ [DOI: 10.1063/5.0250395](https://doi.org/10.1063/5.0250395)
 
-### A cryptosystem for face recognition based on optical interference and phase truncation theory
+**A cryptosystem for face recognition based on optical interference and phase truncation theory**
 
-07/2025 Scientific Reports [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
+07/2025 _Scientific Reports_ [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
 
-### High-security optical encryption based on single-pixel imaging and structured light multiplexing holography
+**High-security optical encryption based on single-pixel imaging and structured light multiplexing holography**
 
-03/2025 Optics Letters [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
+03/2025 _Optics Letters_ [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
 
-### Large-scale scattering-augmented optical encryption
+**Large-scale scattering-augmented optical encryption**
 
-11/2024 Nature Communications [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
+11/2024 _Nature Communications_ [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
 
-### Speckle visual cryptography for credential authentication
+**Speckle visual cryptography for credential authentication**
 
-05/2024 Applied Optics [10.1364/AO.522918](https://doi.org/10.1364/AO.522918)
+05/2024 _Applied Optics_ [10.1364/AO.522918](https://doi.org/10.1364/AO.522918)
