@@ -29,6 +29,13 @@
 
 - **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418)
 
+- **Selected Publications:**
+  - Optical imaging through spatiotemporally decorrelated speckles via GAN [(*Laser & Photonics Reviews*, 2025)](https://doi.org/10.1002/lpor.202401836)
+  - Direct classification through scattering media with limited information [(*Advanced Photonics Nexus*, 2025)](https://doi.org/XX/XX)
+  - Delocalized information in optical speckles via learning-based study [(*Under revision*, 2025)](https://doi.org/XX/XX)
+  - Speckle-based cryptosystem for face recognition via deep learning [(*Advanced Science*, 2022)](https://doi.org/10.1002/advs.202202407)
+  - Parameter-free algorithm for iterative wavefront shaping [(*Optics Letters*, 2021)](https://doi.org/10.1364/OL.427215)
+
 ## Internship
 
 - **Student Ambassador - PolyU BME (06/2023 – 06/2023):**
