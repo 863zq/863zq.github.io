@@ -12,7 +12,7 @@ Hello, I am Zhao Qi, a PhD graduate from Department of Biomedical Engineering, H
 
 My PhD research includes computational imaging and deep learning models for overcoming optical speckles 
 in biological tissues and retrieving images from speckles, under the supervision of 
-[Assoc. Prof. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
+[Prof. Puxiang Lai](https://orcid.org/0000-0003-4811-2012)
 
 # Self introduction
 
@@ -20,7 +20,7 @@ in biological tissues and retrieving images from speckles, under the supervision
 
 - **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418).
 
-- **Supervisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+- **Supervisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
 - **Research fileds:** 
   - Computational imaging & deep learning models 

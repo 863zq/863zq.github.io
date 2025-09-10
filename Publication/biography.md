@@ -1,5 +1,3 @@
-# Biography
-
 # CIMDA (Postdoctoral Fellow) 11/2024 – Present
 
 [City University of Hong Kong](https://www.cityu.edu.hk/) — 
@@ -13,7 +11,7 @@
 
 - **Low Altitude Economy:** Conducted research on Urban Air Mobility based on eVTOL, focusing on recent research development. Developed algorithms for end-to-end obstacle avoidance during eVTOL flight.
 
-- **Literature Review:** Urban Air Mobility: Technological Foundations, Real-World Implementation, and the Future Development. A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms.
+- **Literature Review:** Urban Air Mobility: Technological Foundations, Real-World Implementation, and the Future Development (_Under submission 2025_). A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms (_Under submission 2025_).
 
 
 # PolyU (Doctor of Philosophy) 09/2020 – 10/2024
@@ -25,7 +23,7 @@
 
 - **Major:** Biomedical Engineering ([GPA: 3.49/4.30](https://863zq.github.io/Publication/PhD_Transcript.jpg))
 
-- **Advisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
+- **Advisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/)
 
 - **Research:** Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
@@ -110,4 +108,121 @@
   
   Contributed to the welcoming ceremony for the new students (10/2018) by serving as one of the hosts.
 
+
+# Publications
+
+## First or co-first authored papers:
+<!--  
+  1. [A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms](https://863zq.github.io/)
+     Under submission 2025
+  1. [Urban Air Mobility: A Comprehensive Review of Technologies, Case Studies, and Future Developments](https://863zq.github.io/)
+     Under submission 2025
+  1. [Light Titan Flyer: On-board Memorize at Flight Time for End-to-end Obstacle Avoidance](https://863zq.github.io/)
+     Under revision 2025
+-->
+  1. [Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/)
+
+     Laser & Photonics Reviews 2025 (IF = 10.0) [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
+
+  1. [Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/)
+
+     Advanced Photonics Nexus 2025 (IF = 6.0) [DOI: XX/XX](https://doi.org/XX/XX)
+
+  1. [Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/)
+
+     Under revision 2025
+
+  1. [Deep-Tissue Optics: Technological Development and Applications](https://863zq.github.io/Publication/deep_tissue_optics.html)
+
+     Chinese Journal of Lasers 2024 (IF = 2.57) [DOI: 10.3788/CJL231318](https://doi.org/10.3788/CJL231318)
+
+  1. [DeepSLM: Speckle-Licensed Modulation via Deep Adversarial Learning for Authorized Optical Encryption and Decryption](https://863zq.github.io/)
+
+     Advanced Intelligent Systems 2024 (IF = 6.8) [DOI: 10.1002/aisy.202400150](https://doi.org/10.1002/aisy.202400150)
+
+  1. [Learning-based super-resolution interpolation for sub-Nyquist sampled laser speckles](https://863zq.github.io/Publication/speckle_interpolation.html)
+
+     Photonics Research 2023 (IF = 7.3) [DOI: 10.1364/PRJ.472512](https://doi.org/10.1364/PRJ.472512)
+
+  1. [Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning](https://863zq.github.io/Publication/speckle_based_cryptosystem.html)
+
+     Advanced Science 2022 (IF = 15.1) [DOI: 10.1002/advs.202202407](https://doi.org/10.1002/advs.202202407)
+
+  1. [Optimal efficiency of focusing diffused light through scattering media with iterative wavefront shaping](https://863zq.github.io/Publication/wfs_efficiency.html)
+
+     APL Photonics 2022 (IF = 5.6) [DOI: 10.1063/5.0085943](https://doi.org/10.1063/5.0085943)
+
+  1. [Parameter-free optimization algorithm for iterative wavefront shaping](https://863zq.github.io/Publication/parameter_free_algorithm.html)
+
+     Optics Letters 2021 (IF = 3.6) [DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)
+
+  1. [Speckle-based optical cryptosystem for encrypted face recognition](https://863zq.github.io/Publication/speckle_based_cryptosystem.html)
+
+     Chinese Patent 2021 [ZL202111273688.7](https://research.polyu.edu.hk/en/publications/一种基于光学散斑的加密人脸识别方法和系统)
+
+
+## Non-first authored papers
+
+  1. [Speckle-Driven Single-Shot Orbital Angular Momentum Recognition with Ultra-Low Sampling Density](https://863zq.github.io/)
+
+     In process 2025 [Preprint DOI: 10.21203/rs.3.rs-6363105/v1](https://doi.org/10.21203/rs.3.rs-6363105/v1)
+
+  1. [High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
+
+     Nature Communications 2024 (IF = 14.9) [DOI: 10.1038/s41467-024-46946-w](https://doi.org/10.1038/s41467-024-46946-w)
+
+  1. [Wavefront shaping: A versatile tool to conquer multiple scattering in multidisciplinary fields](https://863zq.github.io/Publication/wfs_review.html)
+
+     The Innovation 2022 (IF = 23.6) [DOI: 10.1016/j.xinn.2022.100292](https://doi.org/10.1016/j.xinn.2022.100292)
+
+  1. [Accelerating deep learning with high energy efficiency: From microchip to physical systems](https://863zq.github.io/Publication/wfs_commentary.html)
+
+     The Innovation 2022 (IF = 23.6) [DOI: 10.1016/j.xinn.2022.100252](https://doi.org/10.1016/j.xinn.2022.100252)
+
+  1. [Long-distance pattern projection through an unfixed multimode fiber with natural evolution strategy-based wavefront shaping](https://863zq.github.io/Publication/pattern_projection.html)
+
+     Optics Express 2022 (IF = 3.8) [DOI: 10.1364/OE.462275](https://doi.org/10.1364/OE.462275)
+
+  1. [Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping](https://863zq.github.io/Publication/dma_pso.html)
+
+     Optics Express 2022 (IF = 3.8) [DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
+
+
+## Academic Conferences
+
+  1. [Learning-based study on spatially dispersed information in optical speckles](https://863zq.github.io/)
+
+     The WACBE World Congress on Bioengineering 2024, Hong Kong, China (Poster) 
+
+  1. [Delocalized information in optical speckles and its learning-based demonstration](https://863zq.github.io/)
+
+     The Advanced Photonics Forum 2024, Shenzhen, China (Poster)
+
+  1. [Learning-based study on spatially dispersed imaging from optical speckles](https://863zq.github.io/)
+
+     Visable Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
+
+  1. [Spatially dispersed information retrieved from optical speckles: a learning-based study](https://863zq.github.io/)
+
+     PhotoniX Forum 2023, Hangzhou, China (Poster)
+
+  1. [Speckle-based Optical Cryptosystem for Face Recognition](https://863zq.github.io/Publication/SPIE2023_12438-68/SPIE2023_12438-68.html)
+
+     SPIE Photonics West 2023, San Francisco, USA (Oral) [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
+
+  1. [Encrypting face recognition with optical speckles](https://863zq.github.io/)
+
+     IEEE TENCON 2022, Hong Kong, China (Oral) [DOI: 10.1109/TENCON55691.2022.9977544](https://doi.org/10.1109/TENCON55691.2022.9977544)
+
+  1. [Integration of genetic and bat algorithms towards a parameter-free optimization scheme in iterative wavefront shaping](https://863zq.github.io/Publication/SPIE2021/SPIE2021.html)
+
+     SPIE Photonics Asia 2021, Online, China (Oral) [DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
+
+  1. [Innovative heuristic algorithm in wavefront shaping - parameter-free algorithm](https://863zq.github.io/)
+
+     International Conference on Biomedical Health Informatics 2021, Online, Korea (Oral)
+
+  1. [Flexible humidity sensor based on electrochemically polymerized polypyrrole](https://863zq.github.io/Publication/IEEE2019/IEEE2019.html)
+
+     IEEE Sensors 2019 (Montreal, Canada) [DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
 

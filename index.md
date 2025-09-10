@@ -14,7 +14,7 @@ layout: default
 
 - **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418).
 
-- **Supervisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+- **Supervisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 
 - **Research fileds:** 
   - Computational imaging & deep learning models 
@@ -42,7 +42,7 @@ Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
 - **Major:** Biomedical Engineering (GPA: 3.49/4.30)
 
-- **Advisor:** [Assoc. Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-staff/dr-puxiang-lai/)
+- **Advisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/)
 
 - **Research:** Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
@@ -143,46 +143,6 @@ Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
   1. [Dynamic mutation enhanced particle swarm optimization for optical wavefront shaping](https://863zq.github.io/Publication/dma_pso.html)
 
      Optics Express 2022 (IF = 3.8) [DOI: 10.1364/OE.425615](https://doi.org/10.1364/OE.425615)
-
-
-## Academic Conferences
-
-  1. [Learning-based study on spatially dispersed information in optical speckles](https://863zq.github.io/)
-
-     The WACBE World Congress on Bioengineering 2024, Hong Kong, China (Poster) 
-
-  1. [Delocalized information in optical speckles and its learning-based demonstration](https://863zq.github.io/)
-
-     The Advanced Photonics Forum 2024, Shenzhen, China (Poster)
-
-  1. [Learning-based study on spatially dispersed imaging from optical speckles](https://863zq.github.io/)
-
-     Visable Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
-
-  1. [Spatially dispersed information retrieved from optical speckles: a learning-based study](https://863zq.github.io/)
-
-     PhotoniX Forum 2023, Hangzhou, China (Poster)
-
-  1. [Speckle-based Optical Cryptosystem for Face Recognition](https://863zq.github.io/Publication/SPIE2023_12438-68/SPIE2023_12438-68.html)
-
-     SPIE Photonics West 2023, San Francisco, USA (Oral) [DOI: 10.1117/12.2645932](https://doi.org/10.1117/12.2645932)
-
-  1. [Encrypting face recognition with optical speckles](https://863zq.github.io/)
-
-     IEEE TENCON 2022, Hong Kong, China (Oral) [DOI: 10.1109/TENCON55691.2022.9977544](https://doi.org/10.1109/TENCON55691.2022.9977544)
-
-  1. [Integration of genetic and bat algorithms towards a parameter-free optimization scheme in iterative wavefront shaping](https://863zq.github.io/Publication/SPIE2021/SPIE2021.html)
-
-     SPIE Photonics Asia 2021, Online, China (Oral) [DOI: 10.1117/12.2601210](https://doi.org/10.1117/12.2601210)
-
-  1. [Innovative heuristic algorithm in wavefront shaping - parameter-free algorithm](https://863zq.github.io/)
-
-     International Conference on Biomedical Health Informatics 2021, Online, Korea (Oral)
-
-  1. [Flexible humidity sensor based on electrochemically polymerized polypyrrole](https://863zq.github.io/Publication/IEEE2019/IEEE2019.html)
-
-     IEEE Sensors 2019 (Montreal, Canada) [DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
-
 
 ## Academic Posts
 
