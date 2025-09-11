@@ -1,12 +1,14 @@
 ## Understanding and manipulation of optical speckles
 
-**Author:**  Zhao Qi 
+**Author:**  Zhao Qi
 
-**Advisor:** Puxiang Lai 
+**Advisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/) 
+
+**Date:** 2024-10-19
 
 **[Link: https://theses.lib.polyu.edu.hk/handle/200/13418](https://theses.lib.polyu.edu.hk/handle/200/13418)**
 
-**Abstract:** Optical technologies have experienced significant advancements, leading to various scientific and technological applications. However, the endeavor to probe deeper into inhomogeneous media is hindered by the inherent challenge of optical scattering. Notably, at depths exceeding 1 mm beneath the skin, the multiple scattering phenomena transform potential imaging clarity into optical speckles. This thesis addresses the critical need for innovative methods to circumvent optical scattering and elucidate information concealed within optical speckles. It presents a comprehensive exploration of optical speckles, offering novel insights into overcoming, understanding, and utilizing optical speckles. The body of this thesis is methodically divided into five chapters, each contributing to the overarching narrative of advancing biomedical optics.
+**[Abstract:](https://863zq.github.io/Publication/PhD_Thesis_pdf.html)** Optical technologies have experienced significant advancements, leading to various scientific and technological applications. However, the endeavor to probe deeper into inhomogeneous media is hindered by the inherent challenge of optical scattering. Notably, at depths exceeding 1 mm beneath the skin, the multiple scattering phenomena transform potential imaging clarity into optical speckles. This thesis addresses the critical need for innovative methods to circumvent optical scattering and elucidate information concealed within optical speckles. It presents a comprehensive exploration of optical speckles, offering novel insights into overcoming, understanding, and utilizing optical speckles. The body of this thesis is methodically divided into five chapters, each contributing to the overarching narrative of advancing biomedical optics.
 
 In Chapter 2, a parameter-free algorithm has been proposed for iterative wavefront shaping to overcome speckles, aiming to focus lasers through scattering media and setting the foundation for subsequent chapters. This innovative approach avoids the time-consuming and experience-dependent parameter tuning process, which is inevitable for existing iterative algorithms. Experimental validation, employing ground glass and multi-mode fibers, substantiates the algorithm’s efficacy. These results showcase its robust capability to achieve laser focusing across various scattering environments.
 
