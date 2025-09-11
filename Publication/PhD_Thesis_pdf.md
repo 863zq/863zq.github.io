@@ -37,7 +37,7 @@
 Pao Yue-kong Library, The Hong Kong Polytechnic University, Hung Hom,
 Kowloon, Hong Kong
 
-[http://www.lib.polyu.edu.hk]{.underline}
+<u>[http://www.lib.polyu.edu.hk]</u>
 
 **UNDERSTANDING AND MANIPULATION OF OPTICAL SPECKLES**
 
