@@ -6,12 +6,14 @@
 
 **Date:** 2024-10-19
 
-**[Link: https://theses.lib.polyu.edu.hk/handle/200/13418](https://theses.lib.polyu.edu.hk/handle/200/13418)**
+**[PolyU Lib Link](https://theses.lib.polyu.edu.hk/handle/200/13418)**
 
-<strong>PDF:</strong>
-<iframe src="https://863zq.github.io/Publication/PolyU%20Lib%207839-Zhao%20Qi.pdf"
-        width="10%" height="80px" style="border:none;">
-</iframe>
+**[PDF](https://863zq.github.io/Publication/PhD_thesis/PolyU%20Lib%207839-Zhao%20Qi.pdf)**
+
+<!-- <strong>PDF:</strong>
+<iframe src="https://863zq.github.io/Publication/PhD_thesis/PolyU%20Lib%207839-Zhao%20Qi.pdf"
+        width="100%" height="500px" style="border:none;">
+</iframe> -->
 
 **Abstract:** Optical technologies have experienced significant advancements, leading to various scientific and technological applications. However, the endeavor to probe deeper into inhomogeneous media is hindered by the inherent challenge of optical scattering. Notably, at depths exceeding 1 mm beneath the skin, the multiple scattering phenomena transform potential imaging clarity into optical speckles. This thesis addresses the critical need for innovative methods to circumvent optical scattering and elucidate information concealed within optical speckles. It presents a comprehensive exploration of optical speckles, offering novel insights into overcoming, understanding, and utilizing optical speckles. The body of this thesis is methodically divided into five chapters, each contributing to the overarching narrative of advancing biomedical optics.
 
