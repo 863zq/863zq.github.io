@@ -12,7 +12,7 @@ layout: default
 
 - **PhD graduate:** Department of Biomedical Engineering at The Hong Kong Polytechnic University in October 2024.
 
-- **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418).
+- **Thesis:** [Understanding and manipulation of optical speckles](https://863zq.github.io/Publication/PhD_Thesis.html).
 
 - **Supervisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
 

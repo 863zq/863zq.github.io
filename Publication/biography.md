@@ -27,7 +27,7 @@
 
 - **Research:** Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
-- **Thesis:** [Understanding and manipulation of optical speckles](https://theses.lib.polyu.edu.hk/handle/200/13418)
+- **Thesis:** [Understanding and manipulation of optical speckles](https://863zq.github.io/Publication/PhD_Thesis.html)
 
 - **Selected Publications:**
   - Optical imaging through spatiotemporally decorrelated speckles via GAN [(*Laser & Photonics Reviews*, 2025)](https://doi.org/10.1002/lpor.202401836)

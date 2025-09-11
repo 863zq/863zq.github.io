@@ -31,7 +31,7 @@ it is believed that wavefront shaping holds a bright future that will open new a
 noninvasive or minimally invasive optical interactions and arbitrary control inside deep 
 tissues. The high degree of freedom with multiple scattering will also provide unprecedented 
 opportunities to develop novel optical devices based on a single scattering medium (generic 
-or customized) that can outperform traditional optical components._
+or customized) that can outperform traditional optical components.
 
 
 ![Algorithm](/Publication/wfs_review.jpg)
