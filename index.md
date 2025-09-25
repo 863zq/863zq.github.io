@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Email: zhaoqi.zhao@connect.polyu.hk](mailto:zhaoqi.zhao@connect.polyu.hk)
+
 [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
 [Google Scholar: fwYXanQAAAAJ](https://scholar.google.com/citations?user=fwYXanQAAAAJ)
