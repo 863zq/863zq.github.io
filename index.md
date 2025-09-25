@@ -62,7 +62,7 @@ Advisor: [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan) -->
 
 - **Affiliation:** Northwestern Polytechnical University — Honors College & School of Electronics and Information
 
-- **Major:** Electronic Information Engineering
+- **Major:** Electronic Information Engineering (GPA: 3.67/4.00)
 
 - **Advisor:** [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_Information_Engineering.htm)
 
