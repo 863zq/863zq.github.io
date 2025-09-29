@@ -8,6 +8,8 @@
 
 **[DOI: 10.1364/OL.427215](https://doi.org/10.1364/OL.427215)**
 
+**[PolyU Institutional Research Archive](https://ira.lib.polyu.edu.hk/bitstream/10397/94350/1/Zhao_Parameter-Free_Optimization_Algorithm.pdf)**
+
 **Abstract:** Optical focusing through scattering media has a significant impact on optical applications 
 in biological tissues. Recently, iterative wavefront shaping (WFS) has been successfully used 
 to focus light through or inside scattering media, and various heuristic algorithms have been 
