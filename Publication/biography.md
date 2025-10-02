@@ -107,7 +107,7 @@
 
 - **Awards:** Outstanding Undergraduate at NWPU (06/2017)
 
-- **Contests:** Meritorious Winner of Mathematical Contest In Modeling (01/2016)
+- **Contests:** [Meritorious Winner of Mathematical Contest In Modeling](https://863zq.github.io/Publication/Master_Transcript.jpg) (01/2016)
 
 ## Internship
 
