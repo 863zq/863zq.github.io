@@ -10,6 +10,8 @@
 
 **[PDF](https://863zq.github.io/Publication/PhD_thesis/PolyU%20Lib%207839-Zhao%20Qi.pdf)**
 
+**[Viva](https://863zq.github.io/Publication/PhD_viva.html)**
+
 <!-- <strong>PDF:</strong>
 <iframe src="https://863zq.github.io/Publication/PhD_thesis/PolyU%20Lib%207839-Zhao%20Qi.pdf"
         width="100%" height="500px" style="border:none;">
@@ -29,128 +31,4 @@ Chapter 6 signifies a departure from the primary focus on speckle imaging to emb
 
 In summary, these chapters illustrate a comprehensive journey from overcoming the challenges posed by scattering, understanding delocalized information in speckles, to harnessing the properties of optical speckles for diverse applications. Accordingly, this thesis significantly advances our comprehension of delocalized information within optical speckles and charts a new course for speckle-related research and applications. The research and experimental outcomes not only elucidate the underlying principles but also herald the advent of a transformative paradigm in deep tissue optics, which promises to extend penetration depths and augment resolution, thereby broadening the scope and efficacy of optical applications in biomedical research.
 
-
-![PPT (1)](/Publication/PhD_thesis/PPT%20(1).JPG)
-
-![PPT (2)](/Publication/PhD_thesis/PPT%20(2).JPG)
-
-![PPT (3)](/Publication/PhD_thesis/PPT%20(3).JPG)
-
-![PPT (4)](/Publication/PhD_thesis/PPT%20(4).JPG)
-
-![PPT (5)](/Publication/PhD_thesis/PPT%20(5).JPG)
-
-![PPT (6)](/Publication/PhD_thesis/PPT%20(6).JPG)
-
-![PPT (7)](/Publication/PhD_thesis/PPT%20(7).JPG)
-
-![PPT (8)](/Publication/PhD_thesis/PPT%20(8).JPG)
-
-![PPT (9)](/Publication/PhD_thesis/PPT%20(9).JPG)
-
-![PPT (10)](/Publication/PhD_thesis/PPT%20(10).JPG)
-
-![PPT (11)](/Publication/PhD_thesis/PPT%20(11).JPG)
-
-![PPT (12)](/Publication/PhD_thesis/PPT%20(12).JPG)
-
-![PPT (13)](/Publication/PhD_thesis/PPT%20(13).JPG)
-
-![PPT (14)](/Publication/PhD_thesis/PPT%20(14).JPG)
-
-![PPT (15)](/Publication/PhD_thesis/PPT%20(15).JPG)
-
-![PPT (16)](/Publication/PhD_thesis/PPT%20(16).JPG)
-
-![PPT (17)](/Publication/PhD_thesis/PPT%20(17).JPG)
-
-![PPT (18)](/Publication/PhD_thesis/PPT%20(18).JPG)
-
-![PPT (19)](/Publication/PhD_thesis/PPT%20(19).JPG)
-
-![PPT (20)](/Publication/PhD_thesis/PPT%20(20).JPG)
-
-![PPT (21)](/Publication/PhD_thesis/PPT%20(21).JPG)
-
-![PPT (22)](/Publication/PhD_thesis/PPT%20(22).JPG)
-
-![PPT (23)](/Publication/PhD_thesis/PPT%20(23).JPG)
-
-![PPT (24)](/Publication/PhD_thesis/PPT%20(24).JPG)
-
-![PPT (25)](/Publication/PhD_thesis/PPT%20(25).JPG)
-
-![PPT (26)](/Publication/PhD_thesis/PPT%20(26).JPG)
-
-![PPT (27)](/Publication/PhD_thesis/PPT%20(27).JPG)
-
-![PPT (28)](/Publication/PhD_thesis/PPT%20(28).JPG)
-
-![PPT (29)](/Publication/PhD_thesis/PPT%20(29).JPG)
-
-![PPT (30)](/Publication/PhD_thesis/PPT%20(30).JPG)
-
-![PPT (31)](/Publication/PhD_thesis/PPT%20(31).JPG)
-
-![PPT (32)](/Publication/PhD_thesis/PPT%20(32).JPG)
-
-![PPT (33)](/Publication/PhD_thesis/PPT%20(33).JPG)
-
-![PPT (34)](/Publication/PhD_thesis/PPT%20(34).JPG)
-
-![PPT (35)](/Publication/PhD_thesis/PPT%20(35).JPG)
-
-![PPT (36)](/Publication/PhD_thesis/PPT%20(36).JPG)
-
-![PPT (37)](/Publication/PhD_thesis/PPT%20(37).JPG)
-
-![PPT (38)](/Publication/PhD_thesis/PPT%20(38).JPG)
-
-![PPT (39)](/Publication/PhD_thesis/PPT%20(39).JPG)
-
-![PPT (40)](/Publication/PhD_thesis/PPT%20(40).JPG)
-
-![PPT (41)](/Publication/PhD_thesis/PPT%20(41).JPG)
-
-![PPT (42)](/Publication/PhD_thesis/PPT%20(42).JPG)
-
-![PPT (43)](/Publication/PhD_thesis/PPT%20(43).JPG)
-
-![PPT (44)](/Publication/PhD_thesis/PPT%20(44).JPG)
-
-![PPT (45)](/Publication/PhD_thesis/PPT%20(45).JPG)
-
-![PPT (46)](/Publication/PhD_thesis/PPT%20(46).JPG)
-
-![PPT (47)](/Publication/PhD_thesis/PPT%20(47).JPG)
-
-![PPT (48)](/Publication/PhD_thesis/PPT%20(48).JPG)
-
-![PPT (49)](/Publication/PhD_thesis/PPT%20(49).JPG)
-
-![PPT (50)](/Publication/PhD_thesis/PPT%20(50).JPG)
-
-![PPT (51)](/Publication/PhD_thesis/PPT%20(51).JPG)
-
-![PPT (52)](/Publication/PhD_thesis/PPT%20(52).JPG)
-
-![PPT (53)](/Publication/PhD_thesis/PPT%20(53).JPG)
-
-![PPT (54)](/Publication/PhD_thesis/PPT%20(54).JPG)
-
-![PPT (55)](/Publication/PhD_thesis/PPT%20(55).JPG)
-
-![PPT (56)](/Publication/PhD_thesis/PPT%20(56).JPG)
-
-![PPT (57)](/Publication/PhD_thesis/PPT%20(57).JPG)
-
-![PPT (58)](/Publication/PhD_thesis/PPT%20(58).JPG)
-
-![PPT (59)](/Publication/PhD_thesis/PPT%20(59).JPG)
-
-![PPT (60)](/Publication/PhD_thesis/PPT%20(60).JPG)
-
-![PPT (61)](/Publication/PhD_thesis/PPT%20(61).JPG)
-
-![PPT (62)](/Publication/PhD_thesis/PPT%20(62).JPG)
 
