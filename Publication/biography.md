@@ -133,7 +133,7 @@
 
      Laser & Photonics Reviews 2025 (IF = 10.0) [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
 
-  1. [Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/speckle_transformer.html)
+  1. [Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/Publication/speckle_transformer.html)
 
      Advanced Photonics Nexus 2025 (IF = 6.0) [DOI: TBD/TBD](https://doi.org/)
 
