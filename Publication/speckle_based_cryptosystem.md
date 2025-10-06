@@ -1,6 +1,6 @@
 ## Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning
 
-**Author:** <u>Qi Zhao†</u>, Huanhao Li†, Zhipeng Yu†, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu, Jie Tian*, Puxiang Lai*
+**Author:** <u>Qi Zhao†</u>, Huanhao Li†, Zhipeng Yu†, Chi Man Woo, Tianting Zhong, Shengfu Cheng, Yuanjin Zheng, Honglin Liu, Jie Tian\*, Puxiang Lai\*
 
 **Corresponding author:** Jie Tian* (School of Medical Science and Engineering, Beihang University) tian@ieee.org
 
@@ -52,26 +52,44 @@ original image is cropped and converted to gray-scale._
 
 ## Related papers
 
+**Statistically stationary random light for high-security encryption**
+
+Shuqin Lin, Xinlei Zhu, Yijie Shen, Fei Wang, Xianfeng Chen, Greg Gbur, Yangjian Cai, and Jiayi Yu\*
+
+08/25 _Optica_ [DOI: 10.1364/OPTICA.546899](https://doi.org/10.1364/OPTICA.546899)
+
 **Light in, sound keys out: photoacoustic PUFs from stochastic nanocomposites**
+
+Taehyun Park, Junhyung Kim, Raksan Ko, Byullee Park\*, Hocheon Yoo\*
 
 08/2025 _Nature Communications_ [DOI: 10.1038/s41467-025-62747-1](https://doi.org/10.1038/s41467-025-62747-1)
 
 **Optical encryption via four operations of orbital angular momentum**
 
+Yangsheng Yuan, Zihan Cong, Yaru Gao, Jianghao Li, Yuefeng Zhao, Bernhard J. Hoenders, Yangjian Cai\*, Hui Zhang\*
+
 07/2025 _APL Photonics_ [DOI: 10.1063/5.0250395](https://doi.org/10.1063/5.0250395)
 
 **A cryptosystem for face recognition based on optical interference and phase truncation theory**
+
+Yuan Guo\*, Ping Zhai, Debao Jia, Wenpeng Li 
 
 07/2025 _Scientific Reports_ [DOI: 10.1038/s41598-025-06990-y](https://doi.org/10.1038/s41598-025-06990-y)
 
 **High-security optical encryption based on single-pixel imaging and structured light multiplexing holography**
 
+Sheng Wang, Zhenyu Zhang, Shangyin Zhou, Bijun Xu, and Xiaogang Wang\*
+
 03/2025 _Optics Letters_ [DOI: 10.1364/OL.557688](https://doi.org/10.1364/OL.557688)
 
 **Large-scale scattering-augmented optical encryption**
 
+Liheng Bian\*, Xuyang Chang, Shaowei Jiang, Liming Yang, Xinrui Zhan, Shicong Liu, Daoyu Li, Rong Yan, Zhen Gao & Jun Zhang\*
+
 11/2024 _Nature Communications_ [10.1038/s41467-024-54168-3](https://doi.org/10.1038/s41467-024-54168-3)
 
 **Speckle visual cryptography for credential authentication**
+
+Anqing Jiao, Yupeng Zhu, Zhaoke Mi, Xinlong Zhou, Qiaofen Zhu, Changjun Ke, and Yishi Shi\*
 
 05/2024 _Applied Optics_ [10.1364/AO.522918](https://doi.org/10.1364/AO.522918)

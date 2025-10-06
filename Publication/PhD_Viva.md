@@ -71,12 +71,12 @@
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(13).JPG" width="100%"/></td>
-    <td style="width:60%;"> . </td>
+    <td style="width:60%;"> As for the final research, the focus is transferred from overcoming speckles to utilizing speckles: Due to their inherent randomness, we propose to use speckles as ciphertexts in cryptosystems. We introduce a plain /pleɪn/ yet highly efficient speckle-based cryptosystem, for encrypted face recognition. A piece of scattering ground glass is utilized as a physical secret key, for superior security, light-speed encryption, and low-cost. Overall, my research journey is from overcoming speckles, understanding speckles, to utilizing speckles. We believe these studies will significantly advance the fields of speckle imaging and biomedical optics. Following these outlines, I will delve into the details of these research. </td>
   </tr>
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(14).JPG" width="100%"/></td>
-    <td style="width:60%;"> . </td>
+    <td style="width:60%;"> The first research is the Parameter-Free Algorithm for iterative Wavefront Shaping. </td>
   </tr>
 
   <tr>
