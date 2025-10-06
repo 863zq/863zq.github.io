@@ -2,9 +2,9 @@
 
 **Author:** <u>Qi Zhao†</u>, Huanhao Li†, Tianting Zhong†, Shengfu Cheng, Haofan Huang, Haoran Li, Jing Yao, Wenzhao Li, Chi Man Woo, Lei Gong, Yuanjin Zheng\*, Zhipeng Yu\*, Puxiang Lai\*
 
-**Corresponding author:** Yuanjin Zheng* ()
+**Corresponding author:** Yuanjin Zheng* (School of Electrical and Electronic Engineering, Nanyang Technological University) yjzheng@ntu.edu.sg
 
-**Corresponding author:** Zhipeng Yu* ()
+**Corresponding author:** Zhipeng Yu* (Department of Biomedical Engineering, Hong Kong Polytechnic University) yu.zh.yu@polyu.edu.hk
 
 **Corresponding author:** Puxiang Lai* (Department of Biomedical Engineering, Hong Kong Polytechnic University) puxiang.lai@polyu.edu.hk
 
