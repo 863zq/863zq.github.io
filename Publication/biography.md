@@ -129,7 +129,7 @@
   1. [Light Titan Flyer: On-board Memorize at Flight Time for End-to-end Obstacle Avoidance](https://863zq.github.io/)
      Under revision 2025
 -->
-  1. [Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/)
+  1. [Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles](https://863zq.github.io/Publication/speckle_decorrelation_gan.html)
 
      Laser & Photonics Reviews 2025 (IF = 10.0) [DOI: 10.1002/lpor.202401836](https://doi.org/10.1002/lpor.202401836)
 

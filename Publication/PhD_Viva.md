@@ -313,12 +313,12 @@
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(61).JPG" width="100%"/></td>
-    <td style="width:60%;"> . </td>
+    <td style="width:60%;"> Research outputs - First authored papers. </td>
   </tr>
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(62).JPG" width="100%"/></td>
-    <td style="width:60%;"> . </td>
+    <td style="width:60%;"> Research outputs - Non-first authored papers. </td>
   </tr>
 
 
