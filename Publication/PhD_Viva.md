@@ -71,7 +71,7 @@
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(13).JPG" width="100%"/></td>
-    <td style="width:60%;"> As for the final research, the focus is transferred from overcoming speckles to utilizing speckles: Due to their inherent randomness, we propose to use speckles as ciphertexts in cryptosystems. We introduce a plain /pleɪn/ yet highly efficient speckle-based cryptosystem, for encrypted face recognition. A piece of scattering ground glass is utilized as a physical secret key, for superior security, light-speed encryption, and low-cost. Overall, my research journey is from overcoming speckles, understanding speckles, to utilizing speckles. We believe these studies will significantly advance the fields of speckle imaging and biomedical optics. Following these outlines, I will delve into the details of these research. </td>
+    <td style="width:60%;"> As for the final research, the focus is transferred from overcoming speckles to utilizing speckles: Due to their inherent randomness, we propose to use speckles as ciphertexts in cryptosystems. We introduce a plain yet highly efficient speckle-based cryptosystem, for encrypted face recognition. A piece of scattering ground glass is utilized as a physical secret key, for superior security, light-speed encryption, and low-cost. Overall, my research journey is from overcoming speckles, understanding speckles, to utilizing speckles. We believe these studies will significantly advance the fields of speckle imaging and biomedical optics. Following these outlines, I will delve into the details of these research. </td>
   </tr>
 
   <tr>
@@ -157,7 +157,7 @@
 
   <tr>
     <td style="width:40%;"><img src="/Publication/PhD_thesis/PPT%20(30).JPG" width="100%"/></td>
-    <td style="width:60%;"> First, we compare ballistic imaging and speckles. In ballistic imaging, light travels along ballistic channels from the object plane /pleɪn/ to the image plane, and we can get clear images. Here, one pixel on the image plane corresponds to a single or an array of pixels on the object plane. And when ballistic light is blocked, the lost part can NOT be retrieved with trusted fidelity. </td>
+    <td style="width:60%;"> First, we compare ballistic imaging and speckles. In ballistic imaging, light travels along ballistic channels from the object plane to the image plane, and we can get clear images. Here, one pixel on the image plane corresponds to a single or an array of pixels on the object plane. And when ballistic light is blocked, the lost part can NOT be retrieved with trusted fidelity. </td>
   </tr>
 
   <tr>

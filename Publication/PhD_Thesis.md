@@ -8,8 +8,6 @@
 
 **[PolyU Lib Link](https://theses.lib.polyu.edu.hk/handle/200/13418)**
 
-**[PDF](https://863zq.github.io/Publication/PhD_thesis/PolyU%20Lib%207839-Zhao%20Qi.pdf)**
-
 **[Viva](https://863zq.github.io/Publication/PhD_Viva.html)**
 
 <!-- <strong>PDF:</strong>
