@@ -35,7 +35,8 @@
 
 ## Academic
 
-- **Major:** Biomedical Engineering ([GPA: 3.49/4.30](https://863zq.github.io/Publication/PhD_Transcript.jpg))
+- **Major:** Biomedical Engineering (GPA: 3.49/4.30)
+<!-- - **Major:** Biomedical Engineering ([GPA: 3.49/4.30](https://863zq.github.io/Publication/PhD_Transcript.jpg)) -->
 
 - **Advisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/)
 
@@ -73,7 +74,8 @@
 
 ## Academic
 
-- **Major:** Data Science and Information Technology ([GPA: 3.71/4.00](https://863zq.github.io/Publication/Master_Transcript.jpg))
+- **Major:** Data Science and Information Technology (GPA: 3.71/4.00)
+<!-- - **Major:** Data Science and Information Technology ([GPA: 3.71/4.00](https://863zq.github.io/Publication/Master_Transcript.jpg)) -->
 
 - **Advisor:** [Assoc. Prof. Xiang Qian](https://www.sigs.tsinghua.edu.cn/qx_en/main.htm), [Prof. Xiaohao Wang](https://www.sigs.tsinghua.edu.cn/wxh_en/main.htm), [Prof. Zheng You](https://www.sigs.tsinghua.edu.cn/yzys_en/main.htm), [Prof. Liwei Lin (UC Berkeley)](https://me.berkeley.edu/people/liwei-lin/)
 
@@ -106,17 +108,19 @@
 # Bachelor of Engineering (09/2013 – 06/2017)
 
 **[Northwestern Polytechnical University](https://www.nwpu.edu.cn/) — 
-[Honors College](https://orcid.org/0000-0003-4811-2012) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)**
+[Honors College](https://honors.nwpu.edu.cn/) & [School of Electronics and Information](https://dianzi.nwpu.edu.cn/)**
 
 ## Academic
 
-- **Major:** Electronic Information Engineering ([GPA: 3.67/4.00](https://863zq.github.io/Publication/Bachelor_Transcript.jpg))
+- **Major:** Electronic Information Engineering (GPA: 3.67/4.00)
+<!-- - **Major:** Electronic Information Engineering ([GPA: 3.67/4.00](https://863zq.github.io/Publication/Bachelor_Transcript.jpg)) -->
 
-- **Advisor:** [Prof. Mingyi He](https://dianzi.nwpu.edu.cn/en/Faculty/Department_of_Information_Engineering.htm)
+- **Advisor:** [Prof. Mingyi He](https://teacher.nwpu.edu.cn/hemingyi.html)
 
 - **Research:** Image recognition, Deep learning
 
-- **Thesis:** [Handwritten Character Recognition with Deep Neural Networks and its GPU Implementation](https://863zq.github.io/Publication/Bachelor_Transcript.jpg)
+- **Thesis:** Handwritten Character Recognition with Deep Neural Networks and its GPU Implementation
+<!-- - **Thesis:** [Handwritten Character Recognition with Deep Neural Networks and its GPU Implementation](https://863zq.github.io/Publication/Bachelor_Transcript.jpg) -->
 
 - **Awards:** Outstanding Undergraduate at NWPU (06/2017)
 

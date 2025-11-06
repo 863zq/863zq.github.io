@@ -32,6 +32,7 @@ in biological tissues and retrieving images from speckles, under the supervision
 - **Selected Publications:**
   1. Extended Learning Robustness for High-Fidelity Human Face Imaging from Spatiotemporally Decorrelated Speckles [(*Laser & Photonics Reviews 2025*, DOI:10.1002/lpor.202401836)](https://doi.org/10.1002/lpor.202401836)
   1. Speckle transformer: direct classification through scattering media with limited information [(*Advanced Photonics Nexus 2025*, DOI:10.1117/1.APN.4.5.056016)](https://doi.org/10.1117/1.APN.4.5.056016)
+  1. Delocalized information in optical speckles via learning-based study [(*Under revision*, 2025)](https://doi.org/XX/XX)
   1. Deep-Tissue Optics: Technological Development and Applications [(*Chinese Journal of Lasers 2024*, DOI: 10.3788/CJL231318)](https://doi.org/10.3788/CJL231318)
   1. Speckle-Based Optical Cryptosystem and its Application for Human Face Recognition via Deep Learning [(*Advanced Science 2022*, DOI: 10.1002/advs.202202407)](https://doi.org/10.1002/advs.202202407)
   1. Parameter-free optimization algorithm for iterative wavefront shaping [(*Optics Letters 2021*, DOI: 10.1364/OL.427215)](https://doi.org/10.1364/OL.427215)
