@@ -25,7 +25,7 @@
 
 - **Low Altitude Economy:** Conducted research on Urban Air Mobility based on eVTOL, focusing on recent research development. Developed algorithms for end-to-end obstacle avoidance during eVTOL flight.
 
-- **Literature Review:** Urban Air Mobility: Technological Foundations, Real-World Implementation, and the Future Development (_Under submission 2025_). A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms (_Under submission 2025_).
+<!-- - **Literature Review:** Urban Air Mobility: Technological Foundations, Real-World Implementation, and the Future Development (_Under submission 2025_). A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms (_Under submission 2025_). -->
 
 
 # Doctor of Philosophy (09/2020 – 10/2024)
@@ -44,11 +44,12 @@
 - **Thesis:** [Understanding and manipulation of optical speckles](https://863zq.github.io/Publication/PhD_Thesis.html)
 
 - **Selected Publications:**
-  - Optical imaging through spatiotemporally decorrelated speckles via GAN [(*Laser & Photonics Reviews*, 2025)](https://doi.org/10.1002/lpor.202401836)
-  - Direct classification through scattering media with limited information [(*Advanced Photonics Nexus*, 2025)](https://doi.org/XX/XX)
-  - Delocalized information in optical speckles via learning-based study [(*Under revision*, 2025)](https://doi.org/XX/XX)
-  - Speckle-based cryptosystem for face recognition via deep learning [(*Advanced Science*, 2022)](https://doi.org/10.1002/advs.202202407)
-  - Parameter-free algorithm for iterative wavefront shaping [(*Optics Letters*, 2021)](https://doi.org/10.1364/OL.427215)
+  1. Optical imaging through spatiotemporally decorrelated speckles via GAN [(*Laser & Photonics Reviews 2025*, DOI:10.1002/lpor.202401836)](https://doi.org/10.1002/lpor.202401836)
+  1. Direct classification through scattering media with limited information [(*Advanced Photonics Nexus 2025*, DOI:10.1117/1.APN.4.5.056016)](https://doi.org/10.1117/1.APN.4.5.056016)
+  1. Delocalized information in optical speckles via learning-based study [(*Under revision*, 2025)](https://doi.org/XX/XX)
+  1. Deep-Tissue Optics Reviews [(*Chinese Journal of Lasers 2024*, DOI: 10.3788/CJL231318)](https://doi.org/10.3788/CJL231318)
+  1. Speckle-based cryptosystem for face recognition via deep learning [(*Advanced Science 2022*, DOI: 10.1002/advs.202202407)](https://doi.org/10.1002/advs.202202407)
+  1. Parameter-free algorithm for iterative wavefront shaping [(*Optics Letters 2021*, DOI: 10.1364/OL.427215)](https://doi.org/10.1364/OL.427215)
 
 ## Internship
 

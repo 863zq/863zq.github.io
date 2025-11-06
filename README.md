@@ -1,6 +1,6 @@
 ## Welcome to Frank's Pages
 
-### [Zhao Qi @ PolyU BME](https://863zq.github.io)
+### [Dr. Zhao Qi](https://863zq.github.io)
 
 [ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
 
