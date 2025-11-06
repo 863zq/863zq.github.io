@@ -23,3 +23,9 @@ _Retrieved images from speckles with different training durations T and differen
 Qihang Zhang, Haoyu Yue, Ninghe Liu, Danlin Xu, Renjie Zhou, Liangcai Cao, George Barbastathis\*
 
 04/25 _arXiv_ [arXiv: 2504.11330](https://arxiv.org/abs/2504.11330)
+
+**Codes & Data:**
+
+Codes of GAN: https://github.com/863zq/863zq.github.io/blob/main/Code/Main_complex_GAN.py
+
+Speckle data: https://doi.org/10.60933/PRDR/FY7EDJ
