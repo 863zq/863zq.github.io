@@ -1,6 +1,18 @@
 # Biography
 
-# Postdoctoral Fellow (11/2024 – Present)
+[Full Name: Zhao Qi](https://863zq.github.io/)
+
+[Webpage: 863zq.github.io](https://863zq.github.io/)
+
+[Email: zhaoqi.zhao@connect.polyu.hk](mailto:zhaoqi.zhao@connect.polyu.hk)
+
+[ORCID: 0000-0002-8594-6940](https://orcid.org/0000-0002-8594-6940)
+
+[Google Scholar: fwYXanQAAAAJ](https://scholar.google.com/citations?user=fwYXanQAAAAJ)
+
+[Research Gate: Qi-Zhao-111](https://www.researchgate.net/profile/Qi-Zhao-111)
+
+# Postdoctoral Fellow (11/2024 – 12/2025)
 
 **[City University of Hong Kong](https://www.cityu.edu.hk/) — 
 [Centre for Intelligent Multidimensional Data Analysis Limited](https://www.innocimda.com/)**
@@ -135,7 +147,7 @@
 
   1. [Speckle transformer: direct classification through scattering media with limited information](https://863zq.github.io/Publication/speckle_transformer.html)
 
-     Advanced Photonics Nexus 2025 (IF = 6.0) [DOI: TBD/TBD](https://doi.org/)
+     Advanced Photonics Nexus 2025 (IF = 6.0) [DOI: 10.1117/1.APN.4.5.056016](https://doi.org/10.1117/1.APN.4.5.056016)
 
   1. [Delocalized information in optical speckles: a learning-based study](https://863zq.github.io/)
 
@@ -172,9 +184,9 @@
 
 ## Non-first authored papers
 
-  1. [Speckle-Driven Single-Shot Orbital Angular Momentum Recognition with Ultra-Low Sampling Density](https://863zq.github.io/)
+  1. [Speckle-driven single-shot orbital angular momentum recognition with ultra-low sampling density](https://863zq.github.io/)
 
-     In process 2025 [Preprint DOI: 10.21203/rs.3.rs-6363105/v1](https://doi.org/10.21203/rs.3.rs-6363105/v1)
+     Nature Communications 2025 (IF = 14.9) [Preprint DOI: 10.21203/rs.3.rs-6363105/v1](https://doi.org/10.21203/rs.3.rs-6363105/v1)
 
   1. [High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
 
@@ -233,5 +245,40 @@
 
   1. [Flexible humidity sensor based on electrochemically polymerized polypyrrole](https://863zq.github.io/Publication/IEEE2019/IEEE2019.html)
 
-     IEEE Sensors 2019 (Montreal, Canada) [DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
+     IEEE Sensors 2019, Montreal, Canada (Poster)) [DOI: 10.1109/SENSORS43011.2019.8956740](https://doi.org/10.1109/SENSORS43011.2019.8956740)
+
+# Academic Posts
+
+  1. **Guest Editor** - [MDPI Electronics - Special Issues - Advances in Cryptography and Image Encryption](https://www.mdpi.com/journal/electronics/special_issues/HZSO896250)
+
+  1. **Reviewer** - [Optics and Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)
+
+  1. **Reviewer** - [Reviewer – Optics Letters](https://opg.optica.org/ol/home.cfm)
+
+  1. **Reviewer** - [MDPI Medicine in novel technology and devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
+
+  1. **Reviewer** - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
+
+  1. **Reviewer** - [MDPI Computer Science & Engineering](https://www.mdpi.com/journal/electronics/sections/computer_science_engineering)
+
+  1. **Reviewer** - [MDPI Journal of imaging](https://www.mdpi.com/journal/jimaging)
+
+  1. **Reviewer** - [MDPI Fractal and fractional](https://www.mdpi.com/journal/fractalfract)
+
+  1. **Reviewer** - [MDPI Applied sciences](https://www.mdpi.com/journal/applsci)
+
+# Miscellaneous Information
+
+- **Languages:** English (Fluent); Mandarin (Native); Cantonese (Basic)
+
+- **Programming:** Python; MATLAB; C language; Shell-Linux
+
+- **Deep learning frameworks:** [PyTorch](https://pytorch.org/), [PyTorch Lightning](https://lightning.ai/docs/pytorch)
+
+- **LLM frameworks:** [Dify](https://dify.ai/), [LongChain](https://www.langchain.com/)
+
+- **Other skills:** MS Office; Video Clipping; Driving
+
+- **Hobbies:** Hiking, Photography
+
 
