@@ -19,6 +19,12 @@ layout: default
 
 # [Biography](https://863zq.github.io/Publication/biography.html)
 
+## CUHK (Postdoctoral Fellow) 12/2024 – Present
+
+- **Affiliation:** Department of Biomedical Engineering — The Chinese University of Hong Kong
+
+- **Supervisor:** [Prof. Renjie Zhou](https://www.lambcuhk.org/people/director)
+
 ## CIMDA (Postdoctoral Fellow) 11/2024 – 12/2025
 
 - **Affiliation:** Centre for Intelligent Multidimensional Data Analysis Limited — City University of Hong Kong

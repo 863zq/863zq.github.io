@@ -12,6 +12,17 @@
 
 [Research Gate: Qi-Zhao-111](https://www.researchgate.net/profile/Qi-Zhao-111)
 
+# Postdoctoral Fellow (12/2025 – Present)
+
+**[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) — 
+[Department of Biomedical Engineering](https://www.bme.cuhk.edu.hk/)**
+
+## Academic
+
+- **Advisor:** [Prof. Renjie Zhou](https://www.lambcuhk.org/people/director)
+
+- **Research Interest:** Biomedical imaging, Deep neural networks, Optical speckles, Wavefront shaping
+
 # Postdoctoral Fellow (11/2024 – 12/2025)
 
 **[City University of Hong Kong](https://www.cityu.edu.hk/) — 
