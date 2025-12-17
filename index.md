@@ -37,7 +37,8 @@ layout: default
 
 - **Major:** Biomedical Engineering (GPA: 3.49/4.30)
 
-- **Supervisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/) ([ORCID: 0000-0003-4811-2012](https://orcid.org/0000-0003-4811-2012)).
+- **Supervisor:** [Prof. Puxiang Lai](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/)
+
 - **Research:** Wavefront shaping, Speckle imaging, Computational imaging, Deep learning
 
 - **Thesis:** [Understanding and manipulation of optical speckles](https://863zq.github.io/Publication/PhD_Thesis.html).
