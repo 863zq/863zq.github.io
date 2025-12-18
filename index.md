@@ -102,6 +102,7 @@ layout: default
 
   1. **Reviewer** - [Optics and Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)
 
-  1. **Reviewer** - [Reviewer – Optics Letters](https://opg.optica.org/ol/home.cfm)
+  1. **Reviewer** - [Optics Letters](https://opg.optica.org/ol/home.cfm)
 
+  1. **Reviewer** - [Advanced Photonics Nexus](https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus)
 
