@@ -202,7 +202,7 @@
 
   1. [Speckle-driven single-shot orbital angular momentum recognition with ultra-low sampling density](https://863zq.github.io/)
 
-     Nature Communications 2025 (IF = 14.9) [Preprint DOI: 10.21203/rs.3.rs-6363105/v1](https://doi.org/10.21203/rs.3.rs-6363105/v1)
+     Nature Communications 2025 (IF = 14.9) [DOI: 10.1038/s41467-025-66074-3](https://doi.org/10.1038/s41467-025-66074-3)
 
   1. [High-security learning-based optical encryption assisted by disordered metasurface](https://doi.org/10.1038/s41467-024-46946-w)
 
