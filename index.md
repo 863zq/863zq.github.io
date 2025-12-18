@@ -21,13 +21,13 @@ layout: default
 
 ## CUHK (Postdoctoral Fellow) 12/2024 – Present
 
-- **Affiliation:** Department of Biomedical Engineering — The Chinese University of Hong Kong
+- **Affiliation:** The Chinese University of Hong Kong — Department of Biomedical Engineering
 
 - **Supervisor:** [Prof. Renjie Zhou](https://www.lambcuhk.org/people/director)
 
 ## CIMDA (Postdoctoral Fellow) 11/2024 – 12/2025
 
-- **Affiliation:** Centre for Intelligent Multidimensional Data Analysis Limited — City University of Hong Kong
+- **Affiliation:** City University of Hong Kong — Centre for Intelligent Multidimensional Data Analysis Limited
 
 - **Supervisor:** [Prof. Hong Yan](https://scholars.cityu.edu.hk/en/persons/ityan)
 
