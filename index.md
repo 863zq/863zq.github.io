@@ -107,3 +107,5 @@ layout: default
   1. **Reviewer** - [Advanced Photonics Nexus](https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus)
 
   1. **Reviewer** - [Opto-Electronic Technology](https://www.oejournal.org/oet)
+
+  1. **Reviewer** - [ Medicine in Novel Technology and Devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
