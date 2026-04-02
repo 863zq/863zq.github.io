@@ -277,8 +277,6 @@
 
   1. **Reviewer** - [ Medicine in Novel Technology and Devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
 
-  1. **Reviewer** - [MDPI Medicine in novel technology and devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
-
   1. **Reviewer** - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
 
   1. **Reviewer** - [MDPI Computer Science & Engineering](https://www.mdpi.com/journal/electronics/sections/computer_science_engineering)
