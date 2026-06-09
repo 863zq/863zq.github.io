@@ -200,6 +200,10 @@
 
 ## Non-first authored papers
 
+  1. [A Comprehensive Survey on Road Damage Detection: Datasets, Methods, and Platforms](https://863zq.github.io/)
+
+     IEEE Transactions on Intelligent Transportation Systems 2026 (IF = 7.9) [DOI: XXX](https://doi.org/XXX)
+
   1. [Speckle-driven single-shot orbital angular momentum recognition with ultra-low sampling density](https://863zq.github.io/)
 
      Nature Communications 2025 (IF = 14.9) [DOI: 10.1038/s41467-025-66074-3](https://doi.org/10.1038/s41467-025-66074-3)
