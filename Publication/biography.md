@@ -281,7 +281,7 @@
 
   1. **Reviewer** - [Medicine in Novel Technology and Devices](https://www.sciencedirect.com/journal/medicine-in-novel-technology-and-devices)
 
-    1. **Reviewer** - [Lasers in Surgery and Medicine](https://onlinelibrary.wiley.com/journal/10969101)
+  1. **Reviewer** - [Lasers in Surgery and Medicine](https://onlinelibrary.wiley.com/journal/10969101)
 
   1. **Reviewer** - [MDPI Electronics](https://www.mdpi.com/journal/electronics)
 
