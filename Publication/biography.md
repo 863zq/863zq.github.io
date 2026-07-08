@@ -112,7 +112,7 @@
   
   Operated the official WeChat account, published over 100 posts that collectively received more than 50,000 views.
 
-  Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/22/2018).
+  Served as the group leader for a four-student team to Chaozhou, Guangdong (22/07/2018 - 27/07/2018).
 
   Conducted comprehensive investigations into the local ceramics, electronics, and tea industries, resulting in highly praised assessments.
 
@@ -241,7 +241,7 @@
 
   1. [Learning-based study on spatially dispersed imaging from optical speckles](https://863zq.github.io/)
 
-     Visable Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
+     Visible Light Communication and Optical Computing 2023, Shenzhen, China (Poster)
 
   1. [Spatially dispersed information retrieved from optical speckles: a learning-based study](https://863zq.github.io/)
 
